@@ -1,0 +1,1001 @@
+Unique ID,Complaint Description,Category,Date logged,Area Code,Ward,Country,Origin,Stage,Sub Status,Closed Successfully,Satisfaction,Within SLA,Closed date
+122,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/02/2019,B26 3LB,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+518,Please may I have a bigger bin,Bin Collections,01/07/2019,B28 0TR ,Hall Green,UK,Phone,Stage 2,Closed,TRUE,1,FALSE,01/08/2019
+914,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/07/2019,B15 2GG,Edgbaston,UK,Chat,Stage 2,Decision Pending,FALSE,7,FALSE,01/08/2019
+254,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/07/2019,B26 3LB,Sheldon,UK,Chat,Stage 2,In Progress,FALSE,1,FALSE,01/08/2019
+650,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/02/2019,B28 0TR ,Hall Green,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+386,There was garbage all over the road during the last bin collection.,Bin Collections,01/02/2019,B28 0TS ,Hall Green,UK,Web,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+782,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/02/2019,B17 0AN ,Harborne,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,FALSE,04/03/2019
+221,The bin collectors left my bins all over the pavement.,Bin Collections,01/05/2019,B16 8HY ,Edgbaston,UK,Web,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+617,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/05/2019,B26 1BN,Sheldon,UK,Phone,Stage 1,Acknowledged,FALSE,4,FALSE,01/06/2019
+353,Please may I have a bigger bin,Bin Collections,01/05/2019,B25 8YB,Birminham City Center,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+749,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/05/2019,B28 0TT ,Hall Green,UK,Chat,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+89,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/05/2019,B17 0AP,Harborne,UK,Chat,Stage 1,Complaint Upheld,FALSE,3,FALSE,01/06/2019
+485,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/07/2019,B16 8HZ,Edgbaston,UK,Social,Stage 1,In Progress,FALSE,1,FALSE,01/08/2019
+881,There was garbage all over the road during the last bin collection.,Bin Collections,01/05/2019,B26 2QJ,Sheldon,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+232,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/04/2019,B31 3TJ ,Birminham City Center,UK,Phone,Ombudsman,Acknowledged,FALSE,3,TRUE,02/05/2019
+628,The bin collectors left my bins all over the pavement.,Bin Collections,01/04/2019,B28 0TU ,Hall Green,UK,Letter,Ombudsman,Complaint Upheld,FALSE,6,TRUE,02/05/2019
+100,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/04/2019,B32 2AT ,Harborne,UK,Social,Ombudsman,In Progress,FALSE,7,TRUE,02/05/2019
+496,Please may I have a bigger bin,Bin Collections,01/04/2019,B28 0TX,Hall Green,UK,Phone,Ombudsman,Complaint Rejected,TRUE,1,TRUE,02/05/2019
+892,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/04/2019,B26 3TH ,Sheldon,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,02/05/2019
+364,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/04/2019,B31 3TL,Birminham City Center,UK,Chat,Ombudsman,Closed,FALSE,0,FALSE,02/05/2019
+760,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/04/2019,B28 8LU ,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,10,TRUE,02/05/2019
+309,There was garbage all over the road during the last bin collection.,Bin Collections,01/09/2019,B32 2AU,Harborne,UK,Chat,Stage 1,Acknowledged,FALSE,8,TRUE,02/10/2019
+705,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/09/2019,B15 1QL ,Edgbaston,UK,Phone,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+177,The bin collectors left my bins all over the pavement.,Bin Collections,01/07/2019,B26 3TP ,Sheldon,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/08/2019
+573,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/09/2019,B23 5LL ,Birminham City Center,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+969,Please may I have a bigger bin,Bin Collections,01/09/2019,B28 8LX ,Hall Green,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+45,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/09/2019,B32 2EH ,Harborne,UK,Social,Stage 2,Decision Pending,FALSE,8,TRUE,02/10/2019
+441,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/09/2019,B15 2GG,Edgbaston,UK,Web,Stage 1,Closed,TRUE,1,TRUE,02/10/2019
+837,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/09/2019,B26 3TS ,Sheldon,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+23,There was garbage all over the road during the last bin collection.,Bin Collections,01/11/2019,B23 5LN ,Birminham City Center,UK,Phone,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+419,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/11/2019,B28 8NA ,Hall Green,UK,Chat,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+815,The bin collectors left my bins all over the pavement.,Bin Collections,01/11/2019,B32 2EL ,Harborne,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+155,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/11/2019,B16 8HY ,Edgbaston,UK,Social,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+551,Please may I have a bigger bin,Bin Collections,01/11/2019,B26 3TT ,Sheldon,UK,Web,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+947,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/11/2019,B23 5LW,Birminham City Center,UK,Phone,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+287,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/11/2019,B28 8NB ,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+683,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/11/2019,B32 2EP ,Harborne,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+320,There was garbage all over the road during the last bin collection.,Bin Collections,01/08/2019,B16 8HZ,Edgbaston,UK,Social,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+716,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/08/2019,B26 3UB ,Sheldon,UK,Web,Ombudsman,In Progress,FALSE,0,FALSE,01/09/2019
+56,The bin collectors left my bins all over the pavement.,Bin Collections,01/08/2019,B18 5QS,Birminham City Center,UK,Web,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+452,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/07/2019,B28 8ND ,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/08/2019
+848,Please may I have a bigger bin,Bin Collections,01/08/2019,B32 2ES ,Harborne,UK,Phone,Ombudsman,Acknowledged,FALSE,0,FALSE,01/09/2019
+188,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/08/2019,B15 1QL ,Edgbaston,UK,Letter,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+584,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/08/2019,B26 3UF ,Sheldon,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+980,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/08/2019,B18 5QT,Birminham City Center,UK,Social,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+331,There was garbage all over the road during the last bin collection.,Bin Collections,01/07/2019,B28 8NE ,Hall Green,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/08/2019
+727,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/07/2019,B28 8NF ,Hall Green,UK,Phone,Stage 3,Complaint Rejected,TRUE,4,TRUE,01/08/2019
+199,The bin collectors left my bins all over the pavement.,Bin Collections,01/07/2019,B15 1QP ,Edgbaston,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+595,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/07/2019,B26 3UG ,Sheldon,UK,Phone,Stage 3,Closed,TRUE,8,TRUE,01/08/2019
+991,Please may I have a bigger bin,Bin Collections,01/07/2019,B23 5FU,Birminham City Center,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+67,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/07/2019,B28 8NG,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+463,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/07/2019,B32 2ET ,Harborne,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+859,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/07/2019,B15 1QT ,Edgbaston,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+34,There was garbage all over the road during the last bin collection.,Bin Collections,01/10/2019,B26 3YG ,Sheldon,UK,Chat,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/11/2019
+430,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/10/2019,B11 1NU ,Birminham City Center,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+826,The bin collectors left my bins all over the pavement.,Bin Collections,01/10/2019,B28 8ES ,Hall Green,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+298,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/10/2019,B32 2EU,Harborne,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+694,Please may I have a bigger bin,Bin Collections,01/10/2019,B15 1QZ ,Edgbaston,UK,Chat,Stage 2,Acknowledged,FALSE,7,TRUE,01/11/2019
+166,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/10/2019,B28 8EU ,Hall Green,UK,Web,Stage 2,Complaint Upheld,FALSE,2,TRUE,01/11/2019
+562,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/10/2019,B11 1NY ,Birminham City Center,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,01/11/2019
+958,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/10/2019,B28 8EX ,Hall Green,UK,Letter,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/11/2019
+133,There was garbage all over the road during the last bin collection.,Bin Collections,01/01/2019,B17 0HH,Harborne,UK,Phone,Stage 1,Closed,TRUE,5,TRUE,01/02/2019
+529,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/01/2019,B15 1RA ,Edgbaston,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+925,The bin collectors left my bins all over the pavement.,Bin Collections,01/07/2019,B26 3YH,Sheldon,UK,Social,Stage 1,Acknowledged,FALSE,7,TRUE,01/08/2019
+1,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/01/2019,B11 1PB,Birminham City Center,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/02/2019
+397,Please may I have a bigger bin,Bin Collections,01/07/2019,B28 8EY ,Hall Green,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,01/08/2019
+793,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/01/2019,B17 0EQ,Harborne,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,01/02/2019
+265,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/01/2019,B15 1RP ,Edgbaston,UK,Social,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/02/2019
+661,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/01/2019,B26 3BN ,Sheldon,UK,Phone,Stage 1,Decision Pending,FALSE,1,TRUE,01/02/2019
+12,There was garbage all over the road during the last bin collection.,Bin Collections,01/12/2019,B14 7QD ,Birminham City Center,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/01/2020
+408,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/12/2019,B28 8EZ ,Hall Green,UK,Letter,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+804,The bin collectors left my bins all over the pavement.,Bin Collections,01/12/2019,B17 0HW,Harborne,UK,Chat,Ombudsman,Complaint Rejected,TRUE,3,TRUE,01/01/2020
+276,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/12/2019,B15 1RX ,Edgbaston,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,01/01/2020
+672,Please may I have a bigger bin,Bin Collections,01/12/2019,B28 8HG,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,01/01/2020
+144,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/12/2019,B14 7QE,Birminham City Center,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+540,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/12/2019,B28 0TL ,Hall Green,UK,Social,Ombudsman,Acknowledged,FALSE,0,TRUE,01/01/2020
+936,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/12/2019,B17 9JY ,Harborne,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/01/2020
+210,There was garbage all over the road during the last bin collection.,Bin Collections,01/06/2019,B15 1TH ,Edgbaston,UK,Social,Stage 2,Closed,TRUE,10,TRUE,02/07/2019
+606,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/06/2019,B26 3BP ,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+78,The bin collectors left my bins all over the pavement.,Bin Collections,01/06/2019,B18 5NR,Birminham City Center,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,02/07/2019
+474,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/07/2019,B28 0TP,Hall Green,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+870,Please may I have a bigger bin,Bin Collections,01/06/2019,B17 9LA ,Harborne,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,02/07/2019
+342,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/06/2019,B15 1TS ,Edgbaston,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,02/07/2019
+738,Candidate was inexperienced and unable to deliver on what was required,Bin Collections,01/06/2019,B26 3DA ,Sheldon,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+111,There was garbage all ove the floor when you did your last bin collection,Bin Collections,01/07/2019,B24 8HE,Birminham City Center,UK,Web,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+507,There was garbage all over the road during the last bin collection.,Bin Collections,01/03/2019,B28 8RJ ,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+903,I need some of those special bin bags so my colletion is a lot cleaner.,Bin Collections,01/03/2019,B17 9LB ,Harborne,UK,Phone,Stage 3,Closed,TRUE,5,TRUE,01/04/2019
+375,The bin collectors left my bins all over the pavement.,Bin Collections,01/03/2019,B15 1TT ,Edgbaston,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+771,My Bins werent collected and it is a huge inconveience to me. Please sort it out.,Bin Collections,01/03/2019,B26 3DB ,Sheldon,UK,Phone,Stage 3,Acknowledged,FALSE,1,TRUE,01/04/2019
+243,Please may I have a bigger bin,Bin Collections,01/03/2019,B28 8RL ,Hall Green,UK,Letter,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/04/2019
+639,You didn’t collect my recyceling last week and now I have a huge backup of waste.,Bin Collections,01/03/2019,B28 8RN ,Hall Green,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+266,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/02/2019,B17 9LG,Harborne,UK,Web,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+662,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/02/2019,B15 3AW,Edgbaston,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+2,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/02/2019,B26 3DL ,Sheldon,UK,Phone,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+398,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/02/2019,B29 4NS ,Birminham City Center,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,04/03/2019
+794,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/02/2019,B28 8RP ,Hall Green,UK,Chat,Stage 2,Decision Pending,FALSE,7,FALSE,04/03/2019
+134,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/02/2019,B17 0BN,Harborne,UK,Chat,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+530,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/02/2019,B15 1QS,Edgbaston,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+926,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/02/2019,B26 3DN,Sheldon,UK,Web,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+365,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/05/2019,B29 4NT ,Birminham City Center,UK,Social,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+761,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/05/2019,B28 8RW ,Hall Green,UK,Phone,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+101,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/05/2019,B17 9AP,Harborne,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,01/06/2019
+497,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/05/2019,B15 1TR,Edgbaston,UK,Phone,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+893,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/05/2019,B26 1JP ,Sheldon,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+233,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/05/2019,B29 4NU ,Birminham City Center,UK,Letter,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+629,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/05/2019,B28 9DB ,Hall Green,UK,Chat,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/06/2019
+376,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/07/2019,B17 9EX ,Harborne,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/08/2019
+772,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/04/2019,B16 9BH ,Edgbaston,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,02/05/2019
+244,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/04/2019,B28 9DE ,Hall Green,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+640,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/04/2019,B28 9DE ,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,10,TRUE,02/05/2019
+112,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/04/2019,B28 9DF ,Hall Green,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+508,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/04/2019,B17 9EY ,Harborne,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,02/05/2019
+904,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/04/2019,B16 9BJ,Edgbaston,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,02/05/2019
+57,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/09/2019,B26 3DY ,Sheldon,UK,Phone,Stage 1,Acknowledged,FALSE,4,TRUE,02/10/2019
+453,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/09/2019,B29 4NZ ,Birminham City Center,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,02/10/2019
+849,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/09/2019,B28 9DH ,Hall Green,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+321,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/09/2019,B17 9HA ,Harborne,UK,Web,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+717,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/09/2019,B15 2NG ,Edgbaston,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+189,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/09/2019,B26 3EA ,Sheldon,UK,Chat,Stage 1,Closed,TRUE,7,TRUE,02/10/2019
+585,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/09/2019,B29 4PA ,Birminham City Center,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+981,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/07/2019,B28 9DN ,Hall Green,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/08/2019
+167,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/11/2019,B17 9HB,Harborne,UK,Phone,Stage 3,Complaint Rejected,TRUE,1,TRUE,02/12/2019
+563,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/11/2019,B15 2NH ,Edgbaston,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+959,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/11/2019,B26 3EG ,Sheldon,UK,Chat,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+299,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/11/2019,B29 4PG ,Birminham City Center,UK,Chat,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+695,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/11/2019,B28 9DP ,Hall Green,UK,Social,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+35,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/11/2019,B17 0ED ,Harborne,UK,Social,Stage 3,Closed,TRUE,8,TRUE,02/12/2019
+431,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/11/2019,B15 2NQ ,Edgbaston,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+827,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/11/2019,B26 3EH ,Sheldon,UK,Phone,Stage 3,Acknowledged,FALSE,4,FALSE,02/12/2019
+68,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/08/2019,B29 4PH ,Birminham City Center,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,FALSE,01/09/2019
+464,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/07/2019,B28 9DR ,Hall Green,UK,Chat,Ombudsman,In Progress,FALSE,1,FALSE,01/08/2019
+860,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/08/2019,B28 9DW ,Hall Green,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+200,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/08/2019,B15 2NU,Edgbaston,UK,Social,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+596,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/08/2019,B26 3EW ,Sheldon,UK,Web,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+992,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/08/2019,B29 4PQ ,Birminham City Center,UK,Phone,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+332,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/08/2019,B28 9DX,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/09/2019
+728,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/08/2019,B17 0EE ,Harborne,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+79,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/07/2019,B15 3AS ,Edgbaston,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/08/2019
+475,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/07/2019,B26 3HH ,Sheldon,UK,Social,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+871,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/07/2019,B29 4PS ,Birminham City Center,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+343,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/07/2019,B28 8BZ ,Hall Green,UK,Letter,Stage 2,Closed,TRUE,5,TRUE,01/08/2019
+739,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/07/2019,B17 0EF ,Harborne,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+211,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/07/2019,B15 3AT ,Edgbaston,UK,Web,Stage 3,Acknowledged,FALSE,1,TRUE,01/08/2019
+607,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/07/2019,B26 3HJ ,Sheldon,UK,Phone,Stage 2,Complaint Upheld,FALSE,4,TRUE,01/08/2019
+178,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/10/2019,B29 4PY ,Birminham City Center,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+574,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/10/2019,B28 8DA ,Hall Green,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,01/11/2019
+970,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/10/2019,B17 0EG ,Harborne,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+46,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/10/2019,B15 3AX ,Edgbaston,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+442,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/10/2019,B26 3HN ,Sheldon,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,01/11/2019
+838,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/10/2019,B29 4PZ,Birminham City Center,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,01/11/2019
+310,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/10/2019,B28 8DB ,Hall Green,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,01/11/2019
+706,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/10/2019,B17 0EH ,Harborne,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+277,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/01/2019,B28 8DD,Hall Green,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+673,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/01/2019,B26 3HP ,Sheldon,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,01/02/2019
+145,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/01/2019,B18 7DL ,Birminham City Center,UK,Social,Stage 1,Complaint Upheld,FALSE,2,TRUE,01/02/2019
+541,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/01/2019,B28 0BS ,Hall Green,UK,Web,Stage 1,In Progress,FALSE,1,TRUE,01/02/2019
+937,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/01/2019,B17 0EP ,Harborne,UK,Phone,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/02/2019
+13,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/07/2019,B15 3SH ,Edgbaston,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/08/2019
+409,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/07/2019,B26 3JA ,Sheldon,UK,Chat,Stage 2,Decision Pending,FALSE,8,TRUE,01/08/2019
+805,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/01/2019,B18 7DW,Birminham City Center,UK,Social,Stage 1,Closed,TRUE,8,TRUE,01/02/2019
+156,We are s tired of the birds chirping soloudly in the trees near us.,Anti Social Behaviour,01/12/2019,B28 0BT ,Hall Green,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,01/01/2020
+552,There ar eprople rnning around the neighbourhood knocking on peoples doors.,Anti Social Behaviour,01/12/2019,B17 0ES,Harborne,UK,Phone,Ombudsman,Complaint Rejected,TRUE,0,TRUE,01/01/2020
+948,Someone put a firework intou our mailbox and now it is damaged.,Anti Social Behaviour,01/07/2019,B15 3SJ ,Edgbaston,UK,Letter,Ombudsman,Decision Pending,FALSE,7,TRUE,01/08/2019
+24,There are people running around on the roads putting graffiti everywhere.,Anti Social Behaviour,01/12/2019,B26 3JB ,Sheldon,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+420,We have such loud neighbours. They wont stop banging on the walls.,Anti Social Behaviour,01/07/2019,B26 2TZ,Birminham City Center,UK,Social,Ombudsman,Closed,FALSE,0,FALSE,01/08/2019
+816,The neighbours keep having parties that are going late into the night and we cant sleep.,Anti Social Behaviour,01/12/2019,B28 0BU ,Hall Green,UK,Web,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+288,There is a graffiti problem in our neighbourhood.,Anti Social Behaviour,01/07/2019,B17 0HU,Harborne,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,01/08/2019
+684,A group of hoodie kids is terrorising the neighbourhood on their bicycles.,Anti Social Behaviour,01/12/2019,B15 3SR ,Edgbaston,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/01/2020
+354,The streetlight down the road is broken.,Street Lights,01/06/2019,B26 3JE ,Sheldon,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+750,The streetlight across from our house is out and causing people to hit the curve side.,Street Lights,01/06/2019,B23 5HR ,Birminham City Center,UK,Phone,Stage 2,Acknowledged,FALSE,10,TRUE,02/07/2019
+222,Our entire street has no lights.,Street Lights,01/06/2019,B28 0BX ,Hall Green,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,02/07/2019
+618,"Please replace the bulbs In the streetlights on our road, it is incredibly dim.",Street Lights,01/06/2019,B17 9AL ,Harborne,UK,Letter,Stage 2,In Progress,FALSE,6,TRUE,02/07/2019
+90,The streetlight down the road is broken.,Street Lights,01/06/2019,B28 0BY ,Hall Green,UK,Social,Stage 2,Complaint Rejected,TRUE,2,TRUE,02/07/2019
+486,The streetlight across from our house is out and causing people to hit the curve side.,Street Lights,01/07/2019,B26 3JG ,Sheldon,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/08/2019
+882,Our entire street has no lights.,Street Lights,01/06/2019,B23 5HX,Birminham City Center,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/07/2019
+255,"Please replace the bulbs In the streetlights on our road, it is incredibly dim.",Street Lights,01/03/2019,B28 0DP ,Hall Green,UK,Social,Stage 3,Decision Pending,FALSE,7,TRUE,01/04/2019
+651,The streetlight down the road is broken.,Street Lights,01/03/2019,B17 9AN,Harborne,UK,Phone,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+123,The streetlight across from our house is out and causing people to hit the curve side.,Street Lights,01/03/2019,B15 3SS ,Edgbaston,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+519,Our entire street has no lights.,Street Lights,01/03/2019,B26 3JH ,Sheldon,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+915,"Please replace the bulbs In the streetlights on our road, it is incredibly dim.",Street Lights,01/03/2019,B35 6QF,Birminham City Center,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/04/2019
+387,The streetlight down the road is broken.,Street Lights,01/03/2019,B28 0DR ,Hall Green,UK,Phone,Stage 3,In Progress,FALSE,4,TRUE,01/04/2019
+783,The streetlight across from our house is out and causing people to hit the curve side.,Street Lights,01/03/2019,B17 0QT,Harborne,UK,Letter,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/04/2019
+338,My council tax wasn’t taken from my account last month,Council Tax,01/02/2019,B15 3ST ,Edgbaston,UK,Letter,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+734,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/02/2019,B26 3JR ,Sheldon,UK,Chat,Stage 2,Complaint Rejected,TRUE,3,TRUE,04/03/2019
+74,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/02/2019,B44 0SW,Birminham City Center,UK,Chat,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+470,why should you be allowed to just increase council tax randomly.,Council Tax,01/02/2019,B28 0DW ,Hall Green,UK,Social,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+866,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/02/2019,B17 0NT ,Harborne,UK,Web,Stage 2,Decision Pending,FALSE,2,FALSE,04/03/2019
+206,My council tax wasn’t taken from my account last month,Council Tax,01/02/2019,B15 3SX ,Edgbaston,UK,Web,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+602,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/02/2019,B26 3JS ,Sheldon,UK,Phone,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+998,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/02/2019,B5 7PQ,Birminham City Center,UK,Letter,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+41,why should you be allowed to just increase council tax randomly.,Council Tax,01/07/2019,B28 0EL ,Hall Green,UK,Web,Stage 1,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+437,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/05/2019,B28 0EU ,Hall Green,UK,Phone,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+833,My council tax wasn’t taken from my account last month,Council Tax,01/05/2019,B15 3SZ ,Edgbaston,UK,Letter,Stage 1,Closed,TRUE,0,FALSE,01/06/2019
+173,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/05/2019,B26 3LS ,Sheldon,UK,Letter,Stage 1,Complaint Upheld,FALSE,0,FALSE,01/06/2019
+569,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/05/2019,B30 2AG ,Birminham City Center,UK,Chat,Stage 2,In Progress,FALSE,0,FALSE,01/06/2019
+965,why should you be allowed to just increase council tax randomly.,Council Tax,01/05/2019,B28 0HD ,Hall Green,UK,Social,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/06/2019
+305,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/05/2019,B17 0NU ,Harborne,UK,Social,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+701,My council tax wasn’t taken from my account last month,Council Tax,01/05/2019,B15 3TA ,Edgbaston,UK,Web,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+52,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/04/2019,B26 3NJ ,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/05/2019
+448,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/04/2019,B30 2AL ,Birminham City Center,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+844,why should you be allowed to just increase council tax randomly.,Council Tax,01/04/2019,B28 0HN ,Hall Green,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+316,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/07/2019,B17 0NY,Harborne,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,01/08/2019
+712,My council tax wasn’t taken from my account last month,Council Tax,01/04/2019,B15 3TB,Edgbaston,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,02/05/2019
+184,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/04/2019,B26 3NL ,Sheldon,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,02/05/2019
+580,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/04/2019,B30 2AR,Birminham City Center,UK,Social,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/05/2019
+976,why should you be allowed to just increase council tax randomly.,Council Tax,01/04/2019,B28 0HP ,Hall Green,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+129,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/09/2019,B17 8AY,Harborne,UK,Chat,Stage 1,Decision Pending,FALSE,7,TRUE,02/10/2019
+525,My council tax wasn’t taken from my account last month,Council Tax,01/09/2019,B15 3TE ,Edgbaston,UK,Social,Stage 1,Closed,TRUE,3,TRUE,02/10/2019
+921,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/09/2019,B26 3NR ,Sheldon,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+393,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/09/2019,B28 0HR ,Hall Green,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,02/10/2019
+789,why should you be allowed to just increase council tax randomly.,Council Tax,01/09/2019,B28 0HS ,Hall Green,UK,Phone,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+261,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/09/2019,B17 9BF ,Harborne,UK,Web,Stage 1,In Progress,FALSE,1,TRUE,02/10/2019
+657,My council tax wasn’t taken from my account last month,Council Tax,01/09/2019,B15 3TF,Edgbaston,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+239,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/11/2019,B26 3NW ,Sheldon,UK,Phone,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+635,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/11/2019,B30 2AH,Birminham City Center,UK,Social,Stage 2,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+371,why should you be allowed to just increase council tax randomly.,Council Tax,01/11/2019,B28 0HT ,Hall Green,UK,Web,Stage 3,Closed,TRUE,0,FALSE,02/12/2019
+767,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/11/2019,B17 9DW ,Harborne,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+107,My council tax wasn’t taken from my account last month,Council Tax,01/11/2019,B16 0PT,Edgbaston,UK,Phone,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+503,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/11/2019,B26 3PD ,Sheldon,UK,Letter,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/12/2019
+899,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/11/2019,B20 1HD ,Birminham City Center,UK,Chat,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+140,why should you be allowed to just increase council tax randomly.,Council Tax,01/08/2019,B28 0HU ,Hall Green,UK,Phone,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+536,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/07/2019,B17 9GA ,Harborne,UK,Web,Ombudsman,Decision Pending,FALSE,0,FALSE,01/08/2019
+932,My council tax wasn’t taken from my account last month,Council Tax,01/08/2019,B26 3PG ,Sheldon,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+272,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/08/2019,B26 3PG ,Sheldon,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+668,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/08/2019,B20 1HG,Birminham City Center,UK,Letter,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+8,why should you be allowed to just increase council tax randomly.,Council Tax,01/07/2019,B28 0HW,Hall Green,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/08/2019
+404,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/08/2019,B28 0TA,Hall Green,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+800,My council tax wasn’t taken from my account last month,Council Tax,01/08/2019,B15 1TP,Edgbaston,UK,Social,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+151,My council Tax is too high and I cant afford to pay it at all.,Council Tax,01/07/2019,B26 3PN ,Sheldon,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+547,"Why has our council tax increased AGAIN. Its crazy, I cant afford this.",Council Tax,01/07/2019,B29 5LN,Birminham City Center,UK,Phone,Stage 3,Acknowledged,FALSE,4,TRUE,01/08/2019
+943,why should you be allowed to just increase council tax randomly.,Council Tax,01/07/2019,B28 0UU,Hall Green,UK,Phone,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/08/2019
+19,"I was double dbited on my council tax this month, please can you resolve this.",Council Tax,01/07/2019,B17 9ND ,Harborne,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+415,The local childrens playground had broken equipment and is unsafe.,Children & Education,01/07/2019,B15 2QJ ,Edgbaston,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/08/2019
+811,The playground across the street from me is overgrown and attracting some very shady characters.,Children & Education,01/07/2019,B26 3PP ,Sheldon,UK,Web,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+283,The childrens playground has got rusting equipment that needs to be services,Children & Education,01/07/2019,B27 6LD,Birminham City Center,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+679,The equipment in the childrens playground is badly neglected. My son hurt his knoww and we are worried.,Children & Education,01/07/2019,B28 0JP ,Hall Green,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+250,The fence around the childrens playground needs some paint.,Children & Education,01/10/2019,B17 9NE ,Harborne,UK,Social,Stage 2,Complaint Upheld,FALSE,10,TRUE,01/11/2019
+646,The playground near to the traffic circle is covered in litter.,Children & Education,01/10/2019,B15 2QP ,Edgbaston,UK,Phone,Stage 2,In Progress,FALSE,2,TRUE,01/11/2019
+118,The local childrens playground had broken equipment and is unsafe.,Children & Education,01/10/2019,B26 3PX ,Sheldon,UK,Letter,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+514,The playground across the street from me is overgrown and attracting some very shady characters.,Children & Education,01/10/2019,B30 2YW,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+910,The childrens playground has got rusting equipment that needs to be services,Children & Education,01/10/2019,B28 0JR,Hall Green,UK,Social,Stage 2,Closed,TRUE,10,TRUE,01/11/2019
+382,The equipment in the childrens playground is badly neglected. My son hurt his knoww and we are worried.,Children & Education,01/10/2019,B17 9NJ ,Harborne,UK,Phone,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+778,The fence around the childrens playground needs some paint.,Children & Education,01/10/2019,B28 0SR ,Hall Green,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,01/11/2019
+349,The playground near to the traffic circle is covered in litter.,Children & Education,01/01/2019,B26 3PY ,Sheldon,UK,Chat,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/02/2019
+745,The local childrens playground had broken equipment and is unsafe.,Children & Education,01/01/2019,B1 2PL ,Birminham City Center,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+217,The playground across the street from me is overgrown and attracting some very shady characters.,Children & Education,01/01/2019,B28 0ST ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,4,TRUE,01/02/2019
+613,The childrens playground has got rusting equipment that needs to be services,Children & Education,01/01/2019,B17 9NN ,Harborne,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+85,The equipment in the childrens playground is badly neglected. My son hurt his knoww and we are worried.,Children & Education,01/01/2019,B15 3RA ,Edgbaston,UK,Social,Stage 1,Acknowledged,FALSE,7,TRUE,01/02/2019
+481,The fence around the childrens playground needs some paint.,Children & Education,01/01/2019,B26 3YU,Sheldon,UK,Phone,Stage 1,Decision Pending,FALSE,7,TRUE,01/02/2019
+877,The playground near to the traffic circle is covered in litter.,Children & Education,01/01/2019,B1 2PN ,Birminham City Center,UK,Phone,Stage 1,In Progress,FALSE,4,TRUE,01/02/2019
+228,The local childrens playground had broken equipment and is unsafe.,Children & Education,01/12/2019,B28 0SU ,Hall Green,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+624,The playground across the street from me is overgrown and attracting some very shady characters.,Children & Education,01/12/2019,B17 9NP ,Harborne,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,01/01/2020
+96,The childrens playground has got rusting equipment that needs to be services,Children & Education,01/07/2019,B15 3RB ,Edgbaston,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/08/2019
+492,The equipment in the childrens playground is badly neglected. My son hurt his knoww and we are worried.,Children & Education,01/07/2019,B26 3JY ,Sheldon,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,01/08/2019
+888,The fence around the childrens playground needs some paint.,Children & Education,01/12/2019,B1 2PW,Birminham City Center,UK,Letter,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+360,The playground near to the traffic circle is covered in litter.,Children & Education,01/12/2019,B28 0SX ,Hall Green,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+756,The local childrens playground had broken equipment and is unsafe.,Children & Education,01/12/2019,B17 9NR ,Harborne,UK,Web,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+30,The playground across the street from me is overgrown and attracting some very shady characters.,Children & Education,01/06/2019,B15 3RE,Edgbaston,UK,Phone,Stage 2,In Progress,FALSE,10,TRUE,02/07/2019
+426,The childrens playground has got rusting equipment that needs to be services,Children & Education,01/06/2019,B28 0SZ ,Hall Green,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,02/07/2019
+822,The equipment in the childrens playground is badly neglected. My son hurt his knoww and we are worried.,Children & Education,01/06/2019,B44 0RP,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+294,The fence around the childrens playground needs some paint.,Children & Education,01/06/2019,B28 0TB ,Hall Green,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,02/07/2019
+690,The playground near to the traffic circle is covered in litter.,Children & Education,01/06/2019,B17 9NS ,Harborne,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,02/07/2019
+162,The local childrens playground had broken equipment and is unsafe.,Children & Education,01/06/2019,B15 2QL ,Edgbaston,UK,Phone,Stage 2,Acknowledged,FALSE,7,TRUE,02/07/2019
+558,The playground across the street from me is overgrown and attracting some very shady characters.,Children & Education,01/06/2019,B26 3LA ,Sheldon,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,02/07/2019
+954,The childrens playground has got rusting equipment that needs to be services,Children & Education,01/06/2019,B32 3PW,Birminham City Center,UK,Phone,Stage 2,In Progress,FALSE,7,TRUE,02/07/2019
+327,The equipment in the childrens playground is badly neglected. My son hurt his knoww and we are worried.,Children & Education,01/03/2019,B28 0TE ,Hall Green,UK,Phone,Stage 3,Complaint Upheld,FALSE,4,TRUE,01/04/2019
+723,The fence around the childrens playground needs some paint.,Children & Education,01/03/2019,B17 9NT ,Harborne,UK,Letter,Stage 3,In Progress,FALSE,5,TRUE,01/04/2019
+195,The playground near to the traffic circle is covered in litter.,Children & Education,01/03/2019,B15 2QN,Edgbaston,UK,Social,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/04/2019
+591,The local childrens playground had broken equipment and is unsafe.,Children & Education,01/03/2019,B26 3LE,Sheldon,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+987,The playground across the street from me is overgrown and attracting some very shady characters.,Children & Education,01/03/2019,B32 3PB ,Birminham City Center,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/04/2019
+63,The childrens playground has got rusting equipment that needs to be services,Children & Education,01/03/2019,B28 0TF ,Hall Green,UK,Letter,Stage 3,Closed,TRUE,5,TRUE,01/04/2019
+459,The equipment in the childrens playground is badly neglected. My son hurt his knoww and we are worried.,Children & Education,01/03/2019,B17 9PN ,Harborne,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+855,The fence around the childrens playground needs some paint.,Children & Education,01/03/2019,B16 8JE ,Edgbaston,UK,Social,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+50,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/07/2019,B28 0TG,Hall Green,UK,Social,Stage 2,Acknowledged,FALSE,1,FALSE,01/08/2019
+446,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/07/2019,B32 3PD ,Birminham City Center,UK,Web,Stage 2,Complaint Upheld,FALSE,2,FALSE,01/08/2019
+842,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/02/2019,B28 8TD ,Hall Green,UK,Phone,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+182,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/02/2019,B17 9PP ,Harborne,UK,Phone,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+578,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/02/2019,B16 8SN ,Edgbaston,UK,Letter,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+974,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/02/2019,B26 3TU,Sheldon,UK,Chat,Stage 2,Acknowledged,FALSE,0,FALSE,04/03/2019
+314,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/02/2019,B32 3PJ ,Birminham City Center,UK,Chat,Stage 2,Complaint Rejected,TRUE,4,TRUE,04/03/2019
+710,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/02/2019,B28 8TE,Hall Green,UK,Social,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+149,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/05/2019,B17 9PT ,Harborne,UK,Chat,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+545,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/05/2019,B16 8SP ,Edgbaston,UK,Phone,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/06/2019
+941,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/05/2019,B26 3SZ,Sheldon,UK,Web,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+281,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/05/2019,B32 3PP ,Birminham City Center,UK,Web,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+677,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/05/2019,B28 8SE ,Hall Green,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,FALSE,01/06/2019
+17,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/07/2019,B17 9PU ,Harborne,UK,Phone,Stage 1,Decision Pending,FALSE,0,FALSE,01/08/2019
+413,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/07/2019,B28 8SF ,Hall Green,UK,Letter,Stage 1,Closed,TRUE,1,FALSE,01/08/2019
+809,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/05/2019,B26 3SX ,Sheldon,UK,Chat,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+160,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/04/2019,B32 3QD ,Birminham City Center,UK,Social,Ombudsman,Complaint Rejected,TRUE,1,TRUE,02/05/2019
+556,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/04/2019,B28 8SG ,Hall Green,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+952,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/04/2019,B17 9PW ,Harborne,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+28,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/04/2019,B16 8SU,Edgbaston,UK,Letter,Stage 2,Closed,TRUE,6,TRUE,02/05/2019
+424,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/04/2019,B26 3SY,Sheldon,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+820,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/04/2019,B32 3QG ,Birminham City Center,UK,Social,Ombudsman,Acknowledged,FALSE,1,TRUE,02/05/2019
+292,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/07/2019,B28 8SQ,Hall Green,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/08/2019
+688,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/04/2019,B17 9PY ,Harborne,UK,Phone,Ombudsman,In Progress,FALSE,6,TRUE,02/05/2019
+237,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/09/2019,B15 1HN ,Edgbaston,UK,Phone,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+633,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/09/2019,B26 3LB,Sheldon,UK,Phone,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+105,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/09/2019,B32 3QH ,Birminham City Center,UK,Phone,Stage 1,Closed,TRUE,8,TRUE,02/10/2019
+501,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/09/2019,B28 8HT ,Hall Green,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+897,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/07/2019,B17 9QE ,Harborne,UK,Phone,Stage 1,Acknowledged,FALSE,4,TRUE,01/08/2019
+369,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/09/2019,B15 1JD ,Edgbaston,UK,Chat,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+765,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/09/2019,B26 1BN,Sheldon,UK,Social,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+347,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/11/2019,B32 3QJ,Birminham City Center,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+743,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/11/2019,B28 8HU ,Hall Green,UK,Letter,Stage 3,Acknowledged,FALSE,5,FALSE,02/12/2019
+83,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/07/2019,B17 9QG ,Harborne,UK,Letter,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+479,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/11/2019,B15 1JJ ,Edgbaston,UK,Chat,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+875,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/11/2019,B26 2QJ,Sheldon,UK,Social,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+215,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/11/2019,B7 4DE ,Birminham City Center,UK,Social,Stage 3,Complaint Upheld,FALSE,0,FALSE,02/12/2019
+611,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/11/2019,B28 8JA ,Hall Green,UK,Web,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+248,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/08/2019,B17 9QH ,Harborne,UK,Letter,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+644,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/08/2019,B28 8JD ,Hall Green,UK,Chat,Ombudsman,Closed,FALSE,3,FALSE,01/09/2019
+380,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/07/2019,B26 3TH ,Sheldon,UK,Social,Ombudsman,In Progress,FALSE,0,FALSE,01/08/2019
+776,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/08/2019,B7 4LT,Birminham City Center,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+116,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/08/2019,B28 8JE ,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+512,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/08/2019,B17 9QL,Harborne,UK,Phone,Ombudsman,Acknowledged,FALSE,0,FALSE,01/09/2019
+908,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/08/2019,B15 1JN ,Edgbaston,UK,Letter,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+259,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/07/2019,B26 3TP ,Sheldon,UK,Chat,Stage 3,Closed,TRUE,8,TRUE,01/08/2019
+655,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/07/2019,B8 1LB,Birminham City Center,UK,Phone,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+127,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/07/2019,B28 8JF ,Hall Green,UK,Phone,Stage 3,Acknowledged,FALSE,4,TRUE,01/08/2019
+523,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/07/2019,B17 8DB,Harborne,UK,Phone,Stage 3,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+919,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/07/2019,B15 1SH,Edgbaston,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/08/2019
+391,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/07/2019,B28 8JG ,Hall Green,UK,Web,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+787,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/07/2019,B8 1TB,Birminham City Center,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+358,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/10/2019,B28 8JQ ,Hall Green,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,01/11/2019
+754,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/10/2019,B17 9QS,Harborne,UK,Phone,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/11/2019
+226,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/10/2019,B15 1NP ,Edgbaston,UK,Web,Stage 2,In Progress,FALSE,2,TRUE,01/11/2019
+622,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/10/2019,B26 3TS ,Sheldon,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+94,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/10/2019,B8 1ED ,Birminham City Center,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+490,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/10/2019,B28 8PA ,Hall Green,UK,Social,Stage 2,Closed,TRUE,10,TRUE,01/11/2019
+886,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/10/2019,B32 2AR ,Harborne,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+61,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/01/2019,B15 1NS ,Edgbaston,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,01/02/2019
+457,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/01/2019,B28 8PB ,Hall Green,UK,Phone,Stage 1,In Progress,FALSE,4,TRUE,01/02/2019
+853,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/01/2019,B8 1EH ,Birminham City Center,UK,Letter,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/02/2019
+325,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/01/2019,B28 8PD ,Hall Green,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+721,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/01/2019,B32 2AS,Harborne,UK,Web,Stage 1,Closed,TRUE,7,TRUE,01/02/2019
+193,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/01/2019,B15 1NU ,Edgbaston,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+589,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/01/2019,B26 3TT ,Sheldon,UK,Chat,Stage 1,Acknowledged,FALSE,8,TRUE,01/02/2019
+985,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/07/2019,B8 1LD ,Birminham City Center,UK,Social,Stage 1,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+336,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/12/2019,B28 8PE ,Hall Green,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,01/01/2020
+732,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/12/2019,B17 8BU ,Harborne,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,01/01/2020
+204,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/12/2019,B28 8PF,Hall Green,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,01/01/2020
+600,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/12/2019,B26 3UB ,Sheldon,UK,Social,Ombudsman,Complaint Upheld,FALSE,10,TRUE,01/01/2020
+996,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/12/2019,B8 1LE,Birminham City Center,UK,Phone,Ombudsman,In Progress,FALSE,2,TRUE,01/01/2020
+72,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/12/2019,B28 0PF,Hall Green,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,01/01/2020
+468,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/12/2019,B17 8DH,Harborne,UK,Letter,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+864,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/12/2019,B15 1PJ ,Edgbaston,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+138,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/06/2019,B26 3UF ,Sheldon,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,02/07/2019
+534,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/06/2019,B8 1AN,Birminham City Center,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,02/07/2019
+930,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/07/2019,B28 8SH ,Hall Green,UK,Social,Stage 2,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+6,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/06/2019,B28 8SJ ,Hall Green,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+402,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/07/2019,B15 1PL ,Edgbaston,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/08/2019
+798,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/06/2019,B26 3UG ,Sheldon,UK,Phone,Stage 2,Closed,TRUE,6,TRUE,02/07/2019
+270,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/06/2019,B8 1DX,Birminham City Center,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,02/07/2019
+666,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/06/2019,B28 8SL ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+39,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/03/2019,B17 8RP,Harborne,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+435,Mrs Migins is really struggling next door and requires a carer as there is no one attending to her needs.,Adult Care Services,01/03/2019,B15 1PQ ,Edgbaston,UK,Social,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+831,Our neighbour keeps wondering around in the evenings and we keep needing to take him back to bed.,Adult Care Services,01/03/2019,B26 3YG ,Sheldon,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/04/2019
+303,Our neighbour is complaining onstantly about not being able to go and do her grocery shopping. She needs a carer.,Adult Care Services,01/03/2019,B28 8SN ,Hall Green,UK,Letter,Stage 3,In Progress,FALSE,5,TRUE,01/04/2019
+699,My mum requires her own room as she is unable to walk and is bed ridden.,Adult Care Services,01/03/2019,B28 8SP ,Hall Green,UK,Chat,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/04/2019
+171,The social care workerthat is visiting our neighbour is terribly rude and requires an attitude adjustment.,Adult Care Services,01/03/2019,B17 0SS ,Harborne,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+567,Our neighbour is very ill and requires some help as he has no more living relatives to assist.,Adult Care Services,01/03/2019,B15 1PT ,Edgbaston,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/04/2019
+963,We live very far away from my father and he is in a single bedroom unit on his own. He requires assistance.,Adult Care Services,01/03/2019,B26 3YH,Sheldon,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+374,We have had another 3 children and we are currently in a 2 bedroom house living on top of one another.,Benefits,01/02/2019,B8 1AW,Birminham City Center,UK,Chat,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+770,We require more living space as we have not been allowed proper benefits in months and have 5 people living in the house.,Benefits,01/02/2019,B28 8ST ,Hall Green,UK,Social,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+110,We would like a dwelling on the bottom floor as my mum is in a wheelchair and the council estate has no elevators.,Benefits,01/02/2019,B28 8SU ,Hall Green,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+506,We require a relocation to a new dwelling as our neighbours are constantly abusing the lcal hallway and making a noise.,Benefits,01/02/2019,B15 1PU,Edgbaston,UK,Web,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+902,Our house requres a serious amount of maintenance and a repaint as it is falling apart.,Benefits,01/02/2019,B26 3BN ,Sheldon,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,04/03/2019
+242,"Please come and review our living conditions, they are not suitable for a family of our size.",Benefits,01/02/2019,B8 1AQ,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+638,We have had another 3 children and we are currently in a 2 bedroom house living on top of one another.,Benefits,01/02/2019,B28 8SW ,Hall Green,UK,Letter,Stage 2,Acknowledged,FALSE,0,FALSE,04/03/2019
+77,We require more living space as we have not been allowed proper benefits in months and have 5 people living in the house.,Benefits,01/05/2019,B17 0ST ,Harborne,UK,Phone,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+473,We would like a dwelling on the bottom floor as my mum is in a wheelchair and the council estate has no elevators.,Benefits,01/07/2019,B15 2JG ,Edgbaston,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/08/2019
+869,We require a relocation to a new dwelling as our neighbours are constantly abusing the lcal hallway and making a noise.,Benefits,01/05/2019,B28 8SX ,Hall Green,UK,Phone,Stage 1,Acknowledged,FALSE,0,FALSE,01/06/2019
+209,Our house requres a serious amount of maintenance and a repaint as it is falling apart.,Benefits,01/05/2019,B9 4ED ,Birminham City Center,UK,Chat,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/06/2019
+605,"Please come and review our living conditions, they are not suitable for a family of our size.",Benefits,01/05/2019,B28 8SY ,Hall Green,UK,Social,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+341,We have had another 3 children and we are currently in a 2 bedroom house living on top of one another.,Benefits,01/05/2019,B17 0SU ,Harborne,UK,Web,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+737,We require more living space as we have not been allowed proper benefits in months and have 5 people living in the house.,Benefits,01/05/2019,B15 2JQ,Edgbaston,UK,Phone,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+88,We would like a dwelling on the bottom floor as my mum is in a wheelchair and the council estate has no elevators.,Benefits,01/04/2019,B28 8SZ ,Hall Green,UK,Letter,Stage 2,Decision Pending,FALSE,7,TRUE,02/05/2019
+484,We require a relocation to a new dwelling as our neighbours are constantly abusing the lcal hallway and making a noise.,Benefits,01/04/2019,B9 4EE,Birminham City Center,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,02/05/2019
+880,Our house requres a serious amount of maintenance and a repaint as it is falling apart.,Benefits,01/04/2019,B28 8TB,Hall Green,UK,Social,Ombudsman,Complaint Upheld,FALSE,10,TRUE,02/05/2019
+352,"Please come and review our living conditions, they are not suitable for a family of our size.",Benefits,01/04/2019,B17 0TA ,Harborne,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,02/05/2019
+748,We have had another 3 children and we are currently in a 2 bedroom house living on top of one another.,Benefits,01/04/2019,B16 8QQ,Edgbaston,UK,Letter,Ombudsman,Complaint Rejected,TRUE,0,TRUE,02/05/2019
+220,We require more living space as we have not been allowed proper benefits in months and have 5 people living in the house.,Benefits,01/04/2019,B28 8QH ,Hall Green,UK,Social,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+616,We would like a dwelling on the bottom floor as my mum is in a wheelchair and the council estate has no elevators.,Benefits,01/04/2019,B12 0SH,Birminham City Center,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+165,We require a relocation to a new dwelling as our neighbours are constantly abusing the lcal hallway and making a noise.,Benefits,01/09/2019,B28 8QL ,Hall Green,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+561,Our house requres a serious amount of maintenance and a repaint as it is falling apart.,Benefits,01/09/2019,B17 0TD ,Harborne,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+957,"Please come and review our living conditions, they are not suitable for a family of our size.",Benefits,01/09/2019,B28 8QN ,Hall Green,UK,Phone,Stage 1,Complaint Upheld,FALSE,7,TRUE,02/10/2019
+33,We have had another 3 children and we are currently in a 2 bedroom house living on top of one another.,Benefits,01/07/2019,B26 3BP ,Sheldon,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,01/08/2019
+429,We require more living space as we have not been allowed proper benefits in months and have 5 people living in the house.,Benefits,01/09/2019,B33 0RN ,Birminham City Center,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+825,We would like a dwelling on the bottom floor as my mum is in a wheelchair and the council estate has no elevators.,Benefits,01/09/2019,B28 9JJ ,Hall Green,UK,Social,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+297,We require a relocation to a new dwelling as our neighbours are constantly abusing the lcal hallway and making a noise.,Benefits,01/09/2019,B17 0TE ,Harborne,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+693,Our house requres a serious amount of maintenance and a repaint as it is falling apart.,Benefits,01/09/2019,B28 9JP ,Hall Green,UK,Letter,Stage 1,Closed,TRUE,5,TRUE,02/10/2019
+275,"Please come and review our living conditions, they are not suitable for a family of our size.",Benefits,01/11/2019,B28 9JR ,Hall Green,UK,Social,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+671,We have had another 3 children and we are currently in a 2 bedroom house living on top of one another.,Benefits,01/11/2019,B33 0RT ,Birminham City Center,UK,Web,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+11,We require more living space as we have not been allowed proper benefits in months and have 5 people living in the house.,Benefits,01/11/2019,B28 9JU ,Hall Green,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+407,We would like a dwelling on the bottom floor as my mum is in a wheelchair and the council estate has no elevators.,Benefits,01/07/2019,B17 0TG ,Harborne,UK,Phone,Stage 3,Acknowledged,FALSE,4,FALSE,01/08/2019
+803,We require a relocation to a new dwelling as our neighbours are constantly abusing the lcal hallway and making a noise.,Benefits,01/11/2019,B15 3QS,Edgbaston,UK,Letter,Stage 3,Complaint Upheld,FALSE,0,FALSE,02/12/2019
+143,Our house requres a serious amount of maintenance and a repaint as it is falling apart.,Benefits,01/11/2019,B28 9JX ,Hall Green,UK,Letter,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+539,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/11/2019,B33 0RU ,Birminham City Center,UK,Chat,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+935,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/11/2019,B28 9JZ ,Hall Green,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+176,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B17 0TS,Harborne,UK,Web,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+572,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B28 9LA ,Hall Green,UK,Phone,Ombudsman,Complaint Upheld,FALSE,0,FALSE,01/09/2019
+968,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B26 3DA ,Sheldon,UK,Letter,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+308,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B33 0SA,Birminham City Center,UK,Letter,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+704,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B28 9LB ,Hall Green,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+44,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B17 0TZ,Harborne,UK,Chat,Ombudsman,In Progress,FALSE,0,FALSE,01/09/2019
+440,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B28 9LD ,Hall Green,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+836,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/08/2019,B26 3DB ,Sheldon,UK,Web,Ombudsman,Decision Pending,FALSE,2,FALSE,01/09/2019
+187,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B13 9YF,Birminham City Center,UK,Phone,Stage 3,Complaint Upheld,FALSE,4,TRUE,01/08/2019
+583,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B28 9LE ,Hall Green,UK,Phone,Stage 3,In Progress,FALSE,7,TRUE,01/08/2019
+979,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B17 0UA,Harborne,UK,Chat,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+55,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B15 3HS,Edgbaston,UK,Social,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+451,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B28 9LF ,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+847,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B11 4JL ,Birminham City Center,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/08/2019
+319,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B28 9LH ,Hall Green,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+715,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B17 9NY ,Harborne,UK,Phone,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+286,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/10/2019,B15 3TQ ,Edgbaston,UK,Web,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/11/2019
+682,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/10/2019,B26 3DL ,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+154,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/10/2019,B11 4JN,Birminham City Center,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,01/11/2019
+550,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/10/2019,B28 9LL,Hall Green,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+946,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/10/2019,B17 9PA ,Harborne,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,01/11/2019
+22,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/10/2019,B15 3TY,Edgbaston,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,01/11/2019
+418,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,01/07/2019,B26 3DN,Sheldon,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,01/08/2019
+814,There are hundreds of Potholes on our road and they are damaging the cars,Potholes,01/10/2019,B31 4AU,Birminham City Center,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,01/11/2019
+385,Someone keeps spraypainting lude pictures around the potholes in our area and it is very disconcerting.,Potholes,01/01/2019,B28 8AB ,Hall Green,UK,Social,Stage 1,Closed,TRUE,5,TRUE,01/02/2019
+781,A Massive pothole has appeared in the middle of our road and needs fillign ASAP.,Potholes,01/01/2019,B17 9PD ,Harborne,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,01/02/2019
+253,there are small cracks and potholes next to the speedbumps on our road. I think the bump is actually moving.,Potholes,01/01/2019,B15 3UP ,Edgbaston,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,01/02/2019
+649,The potholesin our area are ridiculous! Please resolve ASAP.,Potholes,01/01/2019,B28 8AD ,Hall Green,UK,Chat,Stage 1,Complaint Upheld,FALSE,8,TRUE,01/02/2019
+121,I am so tired of having to navigate our area to avoid potholes. Please resplve.,Potholes,01/01/2019,B24 0EP,Birminham City Center,UK,Phone,Stage 1,In Progress,FALSE,1,TRUE,01/02/2019
+517,There is a pothole in the pavement that has just appeared. My dog fell into it the other day.,Potholes,01/01/2019,B28 8AE ,Hall Green,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+913,I tripped and fell over a pothole outside and grazed my knee. I am in terrible pain and need to see a doctor.,Potholes,01/01/2019,B17 9PE,Harborne,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+264,There are hundreds of Potholes on our road and they are damaging the cars,Potholes,01/12/2019,B15 3UR,Edgbaston,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/01/2020
+660,Someone keeps spraypainting lude pictures around the potholes in our area and it is very disconcerting.,Potholes,01/12/2019,B26 1JP ,Sheldon,UK,Phone,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+132,A Massive pothole has appeared in the middle of our road and needs fillign ASAP.,Potholes,01/12/2019,B31 3BQ,Birminham City Center,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+528,there are small cracks and potholes next to the speedbumps on our road. I think the bump is actually moving.,Potholes,01/12/2019,B28 8AF ,Hall Green,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+924,The potholesin our area are ridiculous! Please resolve ASAP.,Potholes,01/12/2019,B17 9DG ,Harborne,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+396,I am so tired of having to navigate our area to avoid potholes. Please resplve.,Potholes,01/12/2019,B28 8AQ ,Hall Green,UK,Web,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+792,There is a pothole in the pavement that has just appeared. My dog fell into it the other day.,Potholes,01/12/2019,B34 7HF,Birminham City Center,UK,Phone,Ombudsman,Acknowledged,FALSE,3,TRUE,01/01/2020
+66,I tripped and fell over a pothole outside and grazed my knee. I am in terrible pain and need to see a doctor.,Potholes,01/06/2019,B34 7HF,Birminham City Center,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+462,There are hundreds of Potholes on our road and they are damaging the cars,Potholes,01/06/2019,B28 8AS ,Hall Green,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/07/2019
+858,Someone keeps spraypainting lude pictures around the potholes in our area and it is very disconcerting.,Potholes,01/06/2019,B17 9DQ,Harborne,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+330,A Massive pothole has appeared in the middle of our road and needs fillign ASAP.,Potholes,01/06/2019,B15 3BH ,Edgbaston,UK,Social,Stage 2,Acknowledged,FALSE,10,TRUE,02/07/2019
+726,there are small cracks and potholes next to the speedbumps on our road. I think the bump is actually moving.,Potholes,01/06/2019,B26 3DY ,Sheldon,UK,Web,Stage 2,Complaint Upheld,FALSE,2,TRUE,02/07/2019
+198,The potholesin our area are ridiculous! Please resolve ASAP.,Potholes,01/07/2019,B31 3LQ,Birminham City Center,UK,Letter,Stage 2,In Progress,FALSE,6,TRUE,01/08/2019
+594,I am so tired of having to navigate our area to avoid potholes. Please resplve.,Potholes,01/06/2019,B28 8AT ,Hall Green,UK,Chat,Stage 2,Complaint Rejected,TRUE,4,TRUE,02/07/2019
+990,There is a pothole in the pavement that has just appeared. My dog fell into it the other day.,Potholes,01/06/2019,B17 8BB,Harborne,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+363,I tripped and fell over a pothole outside and grazed my knee. I am in terrible pain and need to see a doctor.,Potholes,01/03/2019,B28 8AU ,Hall Green,UK,Letter,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/04/2019
+759,There are hundreds of Potholes on our road and they are damaging the cars,Potholes,01/03/2019,B26 3EA ,Sheldon,UK,Phone,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+231,Someone keeps spraypainting lude pictures around the potholes in our area and it is very disconcerting.,Potholes,01/03/2019,B17 9JX,Birminham City Center,UK,Web,Stage 3,Closed,TRUE,1,TRUE,01/04/2019
+627,A Massive pothole has appeared in the middle of our road and needs fillign ASAP.,Potholes,01/03/2019,B28 8BG ,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/04/2019
+99,there are small cracks and potholes next to the speedbumps on our road. I think the bump is actually moving.,Potholes,01/03/2019,B17 0BB ,Harborne,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+495,The potholesin our area are ridiculous! Please resolve ASAP.,Potholes,01/07/2019,B15 3DP ,Edgbaston,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+891,I am so tired of having to navigate our area to avoid potholes. Please resplve.,Potholes,01/03/2019,B26 3EG ,Sheldon,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/04/2019
+158,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/02/2019,B12 8XE,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+554,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/02/2019,B28 8BH ,Hall Green,UK,Chat,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+950,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/02/2019,B17 0BE,Harborne,UK,Social,Stage 2,Complaint Upheld,FALSE,10,FALSE,04/03/2019
+290,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/02/2019,B15 3DU ,Edgbaston,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+686,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/02/2019,B28 8BJ ,Hall Green,UK,Web,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+26,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/02/2019,B4 7UD ,Birminham City Center,UK,Web,Stage 2,Complaint Upheld,FALSE,2,FALSE,04/03/2019
+422,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B28 8BN ,Hall Green,UK,Phone,Stage 2,In Progress,FALSE,1,FALSE,01/08/2019
+818,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/02/2019,B17 9HD ,Harborne,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,04/03/2019
+257,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/05/2019,B15 3EB ,Edgbaston,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,FALSE,01/06/2019
+653,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/05/2019,B26 3EH ,Sheldon,UK,Letter,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+389,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/05/2019,B5 5JT ,Birminham City Center,UK,Chat,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+785,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/05/2019,B28 8BQ ,Hall Green,UK,Social,Stage 1,Acknowledged,FALSE,0,FALSE,01/06/2019
+125,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/05/2019,B17 9HE ,Harborne,UK,Social,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+521,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/05/2019,B15 3ED ,Edgbaston,UK,Web,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+917,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/05/2019,B26 3EW ,Sheldon,UK,Phone,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+268,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B5 5LG,Birminham City Center,UK,Letter,Ombudsman,In Progress,FALSE,6,TRUE,02/05/2019
+664,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B28 8BU ,Hall Green,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+136,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B17 9HG ,Harborne,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+532,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B15 3EE ,Edgbaston,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/05/2019
+928,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B26 3HH ,Sheldon,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,02/05/2019
+4,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B17 0AR,Birminham City Center,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+400,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B28 8BX ,Hall Green,UK,Social,Ombudsman,Acknowledged,FALSE,1,TRUE,02/05/2019
+796,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/04/2019,B17 9HH ,Harborne,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,02/05/2019
+345,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/09/2019,B15 3EF ,Edgbaston,UK,Social,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+741,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/09/2019,B26 3HJ ,Sheldon,UK,Web,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+213,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/09/2019,B1 3AA ,Birminham City Center,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+609,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/09/2019,B28 8HN ,Hall Green,UK,Chat,Stage 1,Closed,TRUE,8,TRUE,02/10/2019
+81,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/09/2019,B17 9HJ ,Harborne,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+477,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/09/2019,B15 3EG ,Edgbaston,UK,Phone,Stage 1,Acknowledged,FALSE,7,TRUE,02/10/2019
+873,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/09/2019,B28 9AA ,Hall Green,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,02/10/2019
+59,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B1 3EA ,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,1,FALSE,02/12/2019
+455,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B28 9AD ,Hall Green,UK,Social,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+851,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B17 9SJ ,Harborne,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+191,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B15 3EH,Edgbaston,UK,Web,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+587,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B26 3HN ,Sheldon,UK,Phone,Stage 3,Complaint Rejected,TRUE,3,TRUE,02/12/2019
+983,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B1 3ED ,Birminham City Center,UK,Letter,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+323,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B28 9AJ ,Hall Green,UK,Letter,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+719,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/11/2019,B17 9SL,Harborne,UK,Chat,Stage 3,Complaint Upheld,FALSE,0,FALSE,02/12/2019
+356,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B15 3HA,Edgbaston,UK,Web,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+752,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/08/2019,B26 3HP ,Sheldon,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/09/2019
+92,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/08/2019,B1 3EP,Birminham City Center,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+488,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B28 9BE ,Hall Green,UK,Letter,Ombudsman,Complaint Upheld,FALSE,0,FALSE,01/08/2019
+884,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/08/2019,B17 9JU,Harborne,UK,Phone,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+224,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/08/2019,B28 9BH ,Hall Green,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+620,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/08/2019,B26 3JA ,Sheldon,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,01/09/2019
+367,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B25 8YB,Birminham City Center,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+763,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B28 9BQ ,Hall Green,UK,Letter,Stage 3,Closed,TRUE,5,TRUE,01/08/2019
+235,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B17 9LJ ,Harborne,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+631,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B16 9NH ,Edgbaston,UK,Web,Stage 3,Acknowledged,FALSE,1,TRUE,01/08/2019
+103,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B26 3JB ,Sheldon,UK,Letter,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/08/2019
+499,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B31 3TJ ,Birminham City Center,UK,Chat,Stage 3,In Progress,FALSE,7,TRUE,01/08/2019
+895,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B28 9EE ,Hall Green,UK,Social,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+70,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B17 9LL ,Harborne,UK,Phone,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+466,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B16 9NL,Edgbaston,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+862,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B26 3JE ,Sheldon,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,01/11/2019
+334,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B31 3TL,Birminham City Center,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/11/2019
+730,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B28 9EF ,Hall Green,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,01/11/2019
+202,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B17 9LW,Harborne,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+598,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B28 9EH ,Hall Green,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+994,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/10/2019,B26 3JG ,Sheldon,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,01/11/2019
+169,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/01/2019,B23 5LL ,Birminham City Center,UK,Phone,Stage 1,Acknowledged,FALSE,8,TRUE,01/02/2019
+565,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/01/2019,B28 9EP ,Hall Green,UK,Social,Stage 1,Complaint Upheld,FALSE,8,TRUE,01/02/2019
+961,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/01/2019,B17 9LD,Harborne,UK,Web,Stage 2,In Progress,FALSE,1,TRUE,01/02/2019
+37,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/01/2019,B16 9NJ,Edgbaston,UK,Phone,Stage 1,In Progress,FALSE,4,TRUE,01/02/2019
+433,"Really unhelpful staff, did not want to help me.",Behaviour of staff,01/07/2019,B26 3JH ,Sheldon,UK,Letter,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+829,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/01/2019,B23 5LN ,Birminham City Center,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+301,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/01/2019,B28 9ES ,Hall Green,UK,Web,Stage 1,Closed,TRUE,1,TRUE,01/02/2019
+697,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/01/2019,B17 0EY ,Harborne,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+48,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/12/2019,B15 2GN,Edgbaston,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+444,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/12/2019,B26 3JR ,Sheldon,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+840,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/12/2019,B23 5LW,Birminham City Center,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+312,Your website still has all of the older tarrifs loaded.,IT & Services,01/12/2019,B28 9ET ,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,01/01/2020
+708,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/12/2019,B17 0HA ,Harborne,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,01/01/2020
+180,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/12/2019,B15 1PH,Edgbaston,UK,Social,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/01/2020
+576,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/12/2019,B28 9HA ,Hall Green,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,01/01/2020
+972,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/07/2019,B18 5QS,Birminham City Center,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+246,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/06/2019,B28 9HG ,Hall Green,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,02/07/2019
+642,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/06/2019,B17 0HB,Harborne,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,02/07/2019
+114,Your website still has all of the older tarrifs loaded.,IT & Services,01/06/2019,B16 9DX,Edgbaston,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,02/07/2019
+510,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B26 3JS ,Sheldon,UK,Social,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/08/2019
+906,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/06/2019,B18 5QT,Birminham City Center,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+378,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/06/2019,B28 9HH ,Hall Green,UK,Letter,Stage 2,Closed,TRUE,6,TRUE,02/07/2019
+774,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/06/2019,B17 0AS ,Harborne,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+147,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/03/2019,B16 9JN,Edgbaston,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/04/2019
+543,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/03/2019,B26 3LS ,Sheldon,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+939,Your website still has all of the older tarrifs loaded.,IT & Services,01/03/2019,B23 5FU,Birminham City Center,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+15,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/03/2019,B28 9HS ,Hall Green,UK,Social,Stage 2,Acknowledged,FALSE,8,TRUE,01/04/2019
+411,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/03/2019,B17 0AT ,Harborne,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/04/2019
+807,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/03/2019,B15 3UN,Edgbaston,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+279,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/03/2019,B26 3NJ ,Sheldon,UK,Chat,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/04/2019
+675,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/03/2019,B28 9HT ,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+14,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/02/2019,B28 9HW ,Hall Green,UK,Chat,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+410,Your website still has all of the older tarrifs loaded.,IT & Services,01/07/2019,B17 0AU ,Harborne,UK,Social,Stage 2,Decision Pending,FALSE,0,FALSE,01/08/2019
+806,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/02/2019,B16 9ND,Edgbaston,UK,Web,Stage 2,Acknowledged,FALSE,2,FALSE,04/03/2019
+146,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/02/2019,B26 3NL ,Sheldon,UK,Web,Stage 2,Complaint Rejected,TRUE,1,TRUE,04/03/2019
+542,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/02/2019,B11 1NU ,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+938,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/02/2019,B28 9JA ,Hall Green,UK,Letter,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+278,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/02/2019,B17 0AX ,Harborne,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,FALSE,04/03/2019
+674,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/02/2019,B16 0PW,Edgbaston,UK,Chat,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+113,Your website still has all of the older tarrifs loaded.,IT & Services,01/05/2019,B26 3NR ,Sheldon,UK,Letter,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+509,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/05/2019,B11 1NY ,Birminham City Center,UK,Chat,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+905,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/05/2019,B28 9JB,Hall Green,UK,Social,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+245,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/05/2019,B17 0AY,Harborne,UK,Social,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+641,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/05/2019,B15 2TJ,Edgbaston,UK,Web,Stage 2,Decision Pending,FALSE,1,FALSE,01/06/2019
+377,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/05/2019,B26 3NW ,Sheldon,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+773,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/05/2019,B11 1PB,Birminham City Center,UK,Letter,Stage 1,Decision Pending,FALSE,3,FALSE,01/06/2019
+124,Your website still has all of the older tarrifs loaded.,IT & Services,01/04/2019,B28 8AA,Hall Green,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,02/05/2019
+520,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/04/2019,B28 9BL,Hall Green,UK,Phone,Ombudsman,In Progress,FALSE,10,TRUE,02/05/2019
+916,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/04/2019,B15 2TA,Edgbaston,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+388,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/04/2019,B26 3PD ,Sheldon,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/05/2019
+784,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/04/2019,B14 7QD ,Birminham City Center,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+256,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/04/2019,B28 9BJ,Hall Green,UK,Phone,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+652,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/04/2019,B17 9RD ,Harborne,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,02/05/2019
+201,Your website still has all of the older tarrifs loaded.,IT & Services,01/09/2019,B15 2SY,Edgbaston,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,02/10/2019
+597,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/09/2019,B26 3PG ,Sheldon,UK,Phone,Stage 1,In Progress,FALSE,7,TRUE,02/10/2019
+993,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/09/2019,B14 7QE,Birminham City Center,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+69,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/09/2019,B28 0PH,Hall Green,UK,Chat,Stage 1,Complaint Rejected,TRUE,4,TRUE,02/10/2019
+465,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/09/2019,B17 9RE ,Harborne,UK,Social,Stage 1,Decision Pending,FALSE,7,TRUE,02/10/2019
+861,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/09/2019,B15 2GW ,Edgbaston,UK,Web,Stage 1,Closed,TRUE,3,TRUE,02/10/2019
+333,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/09/2019,B26 3PN ,Sheldon,UK,Letter,Stage 1,Decision Pending,FALSE,7,TRUE,02/10/2019
+729,Your website still has all of the older tarrifs loaded.,IT & Services,01/09/2019,B18 5NR,Birminham City Center,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+311,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B28 8BA ,Hall Green,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,01/08/2019
+707,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/11/2019,B17 9RF,Harborne,UK,Phone,Stage 3,Closed,TRUE,0,FALSE,02/12/2019
+47,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/11/2019,B15 2WB,Edgbaston,UK,Phone,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+443,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/07/2019,B26 3PP ,Sheldon,UK,Letter,Stage 3,In Progress,FALSE,1,FALSE,01/08/2019
+839,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/11/2019,B28 8BB ,Hall Green,UK,Phone,Stage 3,Complaint Rejected,TRUE,4,TRUE,02/12/2019
+179,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/11/2019,B28 8BD ,Hall Green,UK,Chat,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+575,Your website still has all of the older tarrifs loaded.,IT & Services,01/11/2019,B17 9JT ,Harborne,UK,Social,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+971,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B16 9HR,Edgbaston,UK,Web,Stage 3,Complaint Upheld,FALSE,0,FALSE,01/08/2019
+212,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/08/2019,B26 3PX ,Sheldon,UK,Phone,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+608,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/08/2019,B24 8HE,Birminham City Center,UK,Letter,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+344,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/07/2019,B28 8BE ,Hall Green,UK,Chat,Ombudsman,Acknowledged,FALSE,1,FALSE,01/08/2019
+740,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/08/2019,B17 9LH ,Harborne,UK,Social,Ombudsman,Complaint Upheld,FALSE,0,FALSE,01/09/2019
+80,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/08/2019,B16 9DU,Edgbaston,UK,Social,Ombudsman,Decision Pending,FALSE,7,TRUE,01/09/2019
+476,Your website still has all of the older tarrifs loaded.,IT & Services,01/08/2019,B26 3PY ,Sheldon,UK,Web,Ombudsman,Closed,FALSE,3,FALSE,01/09/2019
+872,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B29 4NS ,Birminham City Center,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/08/2019
+223,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/07/2019,B28 8LE ,Hall Green,UK,Phone,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+619,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/07/2019,B17 9LP ,Harborne,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+91,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/07/2019,B15 2NN,Edgbaston,UK,Web,Stage 3,Closed,TRUE,7,TRUE,01/08/2019
+487,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/07/2019,B26 3YU,Sheldon,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+883,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/07/2019,B29 4NT ,Birminham City Center,UK,Phone,Stage 3,Acknowledged,FALSE,7,TRUE,01/08/2019
+355,Your website still has all of the older tarrifs loaded.,IT & Services,01/07/2019,B28 8LF ,Hall Green,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+751,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B17 9LR ,Harborne,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/08/2019
+322,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/10/2019,B15 3AY ,Edgbaston,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,01/11/2019
+718,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/10/2019,B28 8LH ,Hall Green,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+190,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/10/2019,B29 4NU ,Birminham City Center,UK,Social,Stage 2,Acknowledged,FALSE,10,TRUE,01/11/2019
+586,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/10/2019,B28 8LW,Hall Green,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+982,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/10/2019,B17 9LS ,Harborne,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,01/11/2019
+58,Your website still has all of the older tarrifs loaded.,IT & Services,01/10/2019,B15 3PR ,Edgbaston,UK,Letter,Stage 2,In Progress,FALSE,7,TRUE,01/11/2019
+454,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B26 3JY ,Sheldon,UK,Chat,Stage 2,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+850,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/10/2019,B29 4NZ ,Birminham City Center,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+25,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/01/2019,B28 0TJ ,Hall Green,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+421,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/01/2019,B17 9LU ,Harborne,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/02/2019
+817,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/01/2019,B15 3PS ,Edgbaston,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,01/02/2019
+289,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/01/2019,B26 3LA ,Sheldon,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,01/02/2019
+685,Your website still has all of the older tarrifs loaded.,IT & Services,01/01/2019,B29 4PA ,Birminham City Center,UK,Social,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+157,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/01/2019,B28 0TR ,Hall Green,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+553,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/01/2019,B17 9LX ,Harborne,UK,Phone,Stage 1,Closed,TRUE,3,TRUE,01/02/2019
+949,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/01/2019,B15 3PU ,Edgbaston,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+300,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/12/2019,B26 3LE,Sheldon,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+696,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/12/2019,B29 4PG ,Birminham City Center,UK,Phone,Ombudsman,Decision Pending,FALSE,2,TRUE,01/01/2020
+168,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/12/2019,B28 0TS ,Hall Green,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+564,Your website still has all of the older tarrifs loaded.,IT & Services,01/12/2019,B17 9LY,Harborne,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+960,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/12/2019,B15 3PZ ,Edgbaston,UK,Social,Ombudsman,Acknowledged,FALSE,10,TRUE,01/01/2020
+36,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/12/2019,B28 0TT ,Hall Green,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,01/01/2020
+432,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/12/2019,B29 4PH ,Birminham City Center,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/01/2020
+828,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/12/2019,B28 0TU ,Hall Green,UK,Letter,Ombudsman,In Progress,FALSE,6,TRUE,01/01/2020
+102,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/06/2019,B17 8TU,Harborne,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+498,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/07/2019,B15 3QD,Edgbaston,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/08/2019
+894,Your website still has all of the older tarrifs loaded.,IT & Services,01/06/2019,B26 3TU,Sheldon,UK,Phone,Stage 2,Complaint Upheld,FALSE,7,TRUE,02/07/2019
+366,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B29 4PQ ,Birminham City Center,UK,Web,Stage 2,In Progress,FALSE,2,TRUE,01/08/2019
+762,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/06/2019,B28 0TX,Hall Green,UK,Phone,Stage 2,Complaint Rejected,TRUE,1,TRUE,02/07/2019
+234,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/06/2019,B17 8QQ,Harborne,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+630,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/06/2019,B15 3PP,Edgbaston,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,02/07/2019
+3,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/03/2019,B26 3SZ,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,5,TRUE,01/04/2019
+399,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/03/2019,B29 4PS ,Birminham City Center,UK,Chat,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+795,Your website still has all of the older tarrifs loaded.,IT & Services,01/03/2019,B28 8LU ,Hall Green,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+267,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/03/2019,B17 9EH,Harborne,UK,Phone,Stage 2,Acknowledged,FALSE,4,TRUE,01/04/2019
+663,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/03/2019,B15 2TE,Edgbaston,UK,Phone,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/04/2019
+135,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/03/2019,B26 3SX ,Sheldon,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+531,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/03/2019,B29 4PY ,Birminham City Center,UK,Web,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/04/2019
+927,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/03/2019,B28 8LX ,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+230,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/02/2019,B17 0SN ,Harborne,UK,Social,Stage 2,Complaint Rejected,TRUE,0,TRUE,04/03/2019
+626,Your website still has all of the older tarrifs loaded.,IT & Services,01/02/2019,B15 3JT ,Edgbaston,UK,Web,Stage 2,Decision Pending,FALSE,2,FALSE,04/03/2019
+362,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B26 3SY,Sheldon,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,FALSE,01/08/2019
+758,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/02/2019,B28 8NA ,Hall Green,UK,Letter,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+98,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/02/2019,B28 8NB ,Hall Green,UK,Letter,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+494,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/02/2019,B17 0SP ,Harborne,UK,Chat,Stage 2,Decision Pending,FALSE,7,FALSE,04/03/2019
+890,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/02/2019,B15 3JU ,Edgbaston,UK,Phone,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+329,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/07/2019,B26 3LB,Sheldon,UK,Chat,Stage 1,Closed,TRUE,0,FALSE,01/08/2019
+725,Your website still has all of the older tarrifs loaded.,IT & Services,01/05/2019,B29 4PZ,Birminham City Center,UK,Social,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+65,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/05/2019,B28 8ND ,Hall Green,UK,Social,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+461,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/05/2019,B17 0SR,Harborne,UK,Web,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+857,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/05/2019,B15 3JX,Edgbaston,UK,Phone,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+197,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/05/2019,B26 1BN,Sheldon,UK,Phone,Stage 1,Acknowledged,FALSE,4,FALSE,01/06/2019
+593,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/05/2019,B18 7DL ,Birminham City Center,UK,Letter,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+989,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/05/2019,B28 8NE ,Hall Green,UK,Chat,Stage 2,In Progress,FALSE,1,FALSE,01/06/2019
+340,Your website still has all of the older tarrifs loaded.,IT & Services,01/04/2019,B17 0AE ,Harborne,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,02/05/2019
+736,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/04/2019,B5 7RG ,Edgbaston,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,02/05/2019
+208,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/04/2019,B26 2QJ,Sheldon,UK,Phone,Ombudsman,Complaint Upheld,FALSE,6,TRUE,02/05/2019
+604,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/04/2019,B18 7DW,Birminham City Center,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,02/05/2019
+1000,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/07/2019,B28 8NF ,Hall Green,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+76,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/04/2019,B17 0AG ,Harborne,UK,Web,Ombudsman,Complaint Rejected,TRUE,3,TRUE,02/05/2019
+472,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/04/2019,B5 7RQ,Edgbaston,UK,Phone,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+868,Your website still has all of the older tarrifs loaded.,IT & Services,01/04/2019,B26 3TH ,Sheldon,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+21,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/07/2019,B26 2TZ,Birminham City Center,UK,Web,Stage 2,Closed,TRUE,7,TRUE,01/08/2019
+417,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/07/2019,B28 8NG,Hall Green,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/08/2019
+813,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/09/2019,B28 8ES ,Hall Green,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,02/10/2019
+285,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/09/2019,B16 0HD,Edgbaston,UK,Social,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+681,You never reply to my emails and I feel as if this is terrible customer service.,IT & Services,01/09/2019,B26 3TP ,Sheldon,UK,Phone,Stage 1,In Progress,FALSE,1,TRUE,02/10/2019
+153,I keep getting transferred to this lady who keeps asking me t use umbers on my phone. I don’t know why she doesn’t listen whn I talk.,IT & Services,01/09/2019,B23 5HR ,Birminham City Center,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+549,Your website still has all of the older tarrifs loaded.,IT & Services,01/09/2019,B28 8EU ,Hall Green,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+945,I Literally HATE your website. Its impossible to find ANYTHING.,IT & Services,01/09/2019,B17 0AH ,Harborne,UK,Social,Stage 1,Closed,TRUE,8,TRUE,02/10/2019
+131,I keep locing myself out and your retrieve password functionality doesn’t work.,IT & Services,01/11/2019,B15 2EP,Edgbaston,UK,Web,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+527,Why do you only let us log complaints via the portal? Can we just use the web chat?,IT & Services,01/11/2019,B26 3TS ,Sheldon,UK,Phone,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+923,The web chat keeps directing me to some guy called Terence who keeps asking em the same thing.,IT & Services,01/11/2019,B23 5HX,Birminham City Center,UK,Letter,Stage 3,Complaint Rejected,TRUE,1,TRUE,02/12/2019
+263,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/11/2019,B28 8EX ,Hall Green,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+659,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/11/2019,B17 0AQ,Harborne,UK,Chat,Stage 3,Acknowledged,FALSE,0,FALSE,02/12/2019
+395,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B15 2UL ,Edgbaston,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,01/08/2019
+791,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/11/2019,B26 3TT ,Sheldon,UK,Web,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+32,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B35 6QF,Birminham City Center,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/09/2019
+428,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B28 8EY ,Hall Green,UK,Letter,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+824,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B17 8BY ,Harborne,UK,Chat,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+164,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B15 2UN ,Edgbaston,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+560,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B26 3UB ,Sheldon,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+956,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B44 0SW,Birminham City Center,UK,Web,Ombudsman,Decision Pending,FALSE,2,FALSE,01/09/2019
+296,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B28 8EZ ,Hall Green,UK,Web,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+692,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/08/2019,B17 8DD,Harborne,UK,Phone,Ombudsman,Complaint Rejected,TRUE,3,TRUE,01/09/2019
+43,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B28 8HG,Hall Green,UK,Letter,Stage 3,Acknowledged,FALSE,5,TRUE,01/08/2019
+439,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B26 3UF ,Sheldon,UK,Phone,Stage 3,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+835,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B5 7PQ,Birminham City Center,UK,Social,Stage 3,In Progress,FALSE,7,TRUE,01/08/2019
+307,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B28 0TL ,Hall Green,UK,Phone,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+703,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B32 2AP,Harborne,UK,Letter,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+175,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B15 2UW,Edgbaston,UK,Social,Stage 3,Closed,TRUE,7,TRUE,01/08/2019
+571,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B26 3UG ,Sheldon,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+967,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B30 2AG ,Birminham City Center,UK,Phone,Stage 3,Acknowledged,FALSE,4,TRUE,01/08/2019
+142,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B28 0TP,Hall Green,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,01/08/2019
+538,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/10/2019,B17 9AY,Harborne,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/11/2019
+934,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/10/2019,B15 2LH,Edgbaston,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+10,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B26 3YG ,Sheldon,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/08/2019
+406,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/10/2019,B30 2AL ,Birminham City Center,UK,Web,Stage 2,Closed,TRUE,2,TRUE,01/11/2019
+802,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/10/2019,B28 8RJ ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+274,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/10/2019,B17 9AR ,Harborne,UK,Phone,Stage 2,Acknowledged,FALSE,7,TRUE,01/11/2019
+670,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/10/2019,B15 2GG,Edgbaston,UK,Phone,Stage 2,Complaint Upheld,FALSE,10,TRUE,01/11/2019
+241,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/01/2019,B26 3YH,Sheldon,UK,Web,Stage 2,Decision Pending,FALSE,1,TRUE,01/02/2019
+637,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/01/2019,B30 2AR,Birminham City Center,UK,Phone,Stage 1,Closed,TRUE,4,TRUE,01/02/2019
+109,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/01/2019,B28 8RL ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,8,TRUE,01/02/2019
+505,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/01/2019,B17 9AS ,Harborne,UK,Social,Stage 1,Acknowledged,FALSE,8,TRUE,01/02/2019
+901,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/01/2019,B28 8RN ,Hall Green,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,01/02/2019
+373,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/01/2019,B26 3BN ,Sheldon,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,01/02/2019
+769,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/01/2019,B30 2AH,Birminham City Center,UK,Chat,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+120,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/12/2019,B28 8RP ,Hall Green,UK,Social,Ombudsman,Acknowledged,FALSE,1,TRUE,01/01/2020
+516,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/12/2019,B17 9AT ,Harborne,UK,Phone,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/01/2020
+912,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/12/2019,B16 8HY ,Edgbaston,UK,Phone,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+384,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/07/2019,B26 3BP ,Sheldon,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+780,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/12/2019,B20 1HD ,Birminham City Center,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+252,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/12/2019,B28 8RW ,Hall Green,UK,Phone,Ombudsman,Closed,FALSE,0,FALSE,01/01/2020
+648,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/12/2019,B17 9AX,Harborne,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+318,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B16 8HZ,Edgbaston,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+714,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B26 3DA ,Sheldon,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,02/07/2019
+186,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B20 1HG,Birminham City Center,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+582,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B28 9DB ,Hall Green,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,02/07/2019
+978,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B17 0JT,Harborne,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,02/07/2019
+54,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B15 1QL ,Edgbaston,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,02/07/2019
+450,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B26 3DB ,Sheldon,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,02/07/2019
+846,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/06/2019,B29 5LN,Birminham City Center,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+219,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/03/2019,B28 9DE ,Hall Green,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+615,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/03/2019,B28 9DF ,Hall Green,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+87,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/03/2019,B15 1QP ,Edgbaston,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+483,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/03/2019,B26 3DL ,Sheldon,UK,Letter,Stage 3,Closed,TRUE,5,TRUE,01/04/2019
+879,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/03/2019,B27 6LD,Birminham City Center,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+351,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/03/2019,B28 9DH ,Hall Green,UK,Web,Stage 3,Acknowledged,FALSE,7,TRUE,01/04/2019
+747,"Staff did not action my issue, this had several knock on effects.",Lack of action of staff affecting an individual,01/03/2019,B17 0AN ,Harborne,UK,Phone,Stage 3,Complaint Upheld,FALSE,4,TRUE,01/04/2019
+86,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/02/2019,B15 1QT ,Edgbaston,UK,Web,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+482,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/07/2019,B26 3DN,Sheldon,UK,Phone,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+878,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/02/2019,B30 2YW,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,6,FALSE,04/03/2019
+218,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/07/2019,B28 9DN ,Hall Green,UK,Letter,Stage 2,Acknowledged,FALSE,1,FALSE,01/08/2019
+614,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/02/2019,B17 0AP,Harborne,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,FALSE,04/03/2019
+350,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/02/2019,B15 1QZ ,Edgbaston,UK,Phone,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+746,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/02/2019,B26 1JP ,Sheldon,UK,Web,Stage 2,Decision Pending,FALSE,2,FALSE,04/03/2019
+185,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/05/2019,B1 2PL ,Birminham City Center,UK,Social,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+581,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/05/2019,B28 9DP ,Hall Green,UK,Web,Stage 1,Closed,TRUE,0,FALSE,01/06/2019
+977,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/05/2019,B32 2AT ,Harborne,UK,Phone,Stage 2,Decision Pending,FALSE,4,FALSE,01/06/2019
+317,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/05/2019,B15 1RA ,Edgbaston,UK,Phone,Stage 2,In Progress,FALSE,1,FALSE,01/06/2019
+713,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/05/2019,B28 9DR ,Hall Green,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+53,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/05/2019,B28 9DR ,Hall Green,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+449,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/05/2019,B28 9DW ,Hall Green,UK,Chat,Stage 2,Acknowledged,FALSE,1,FALSE,01/06/2019
+845,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/05/2019,B32 2AU,Harborne,UK,Social,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+196,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/04/2019,B15 1RP ,Edgbaston,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+592,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/04/2019,B26 3DY ,Sheldon,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,02/05/2019
+988,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/04/2019,B1 2PN ,Birminham City Center,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,02/05/2019
+64,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/04/2019,B28 9DX,Hall Green,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,02/05/2019
+460,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/07/2019,B32 2EH ,Harborne,UK,Social,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+856,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/04/2019,B15 1RX ,Edgbaston,UK,Phone,Ombudsman,In Progress,FALSE,2,TRUE,02/05/2019
+328,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/04/2019,B26 3EA ,Sheldon,UK,Letter,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+724,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/04/2019,B1 2PW,Birminham City Center,UK,Phone,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+273,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/09/2019,B28 8BZ ,Hall Green,UK,Letter,Stage 1,Closed,TRUE,5,TRUE,02/10/2019
+669,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/09/2019,B32 2EL ,Harborne,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+141,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/09/2019,B15 1TH ,Edgbaston,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+537,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/09/2019,B26 3EG ,Sheldon,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,02/10/2019
+933,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/09/2019,B44 0RP,Birminham City Center,UK,Phone,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+9,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/09/2019,B28 8DA ,Hall Green,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+405,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/09/2019,B28 8DB ,Hall Green,UK,Social,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+801,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/09/2019,B15 1TS ,Edgbaston,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+383,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/11/2019,B26 3EH ,Sheldon,UK,Phone,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+779,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/11/2019,B32 3PW,Birminham City Center,UK,Chat,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+119,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/11/2019,B28 8DD,Hall Green,UK,Chat,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+515,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/11/2019,B32 2EP ,Harborne,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+911,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/11/2019,B15 1TT ,Edgbaston,UK,Web,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+251,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/11/2019,B26 3EW ,Sheldon,UK,Web,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+647,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/11/2019,B32 3PB ,Birminham City Center,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+284,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/08/2019,B28 0BS ,Hall Green,UK,Chat,Ombudsman,Decision Pending,FALSE,0,FALSE,01/09/2019
+680,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/08/2019,B32 2ES ,Harborne,UK,Social,Ombudsman,Acknowledged,FALSE,0,FALSE,01/09/2019
+20,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/08/2019,B15 3AW,Edgbaston,UK,Social,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+416,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/07/2019,B26 3HH ,Sheldon,UK,Web,Ombudsman,Decision Pending,FALSE,1,FALSE,01/08/2019
+812,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/08/2019,B32 3PD ,Birminham City Center,UK,Phone,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+152,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/08/2019,B28 0BT ,Hall Green,UK,Phone,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+548,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/07/2019,B32 2ET ,Harborne,UK,Letter,Ombudsman,In Progress,FALSE,1,FALSE,01/08/2019
+944,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/08/2019,B28 0BU ,Hall Green,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+295,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/07/2019,B26 3HJ ,Sheldon,UK,Social,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+691,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/07/2019,B32 3PJ ,Birminham City Center,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/08/2019
+163,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/07/2019,B28 0BX ,Hall Green,UK,Letter,Stage 3,In Progress,FALSE,5,TRUE,01/08/2019
+559,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/07/2019,B32 2EU,Harborne,UK,Chat,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/08/2019
+955,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/07/2019,B15 1QS,Edgbaston,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+31,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/07/2019,B26 3HN ,Sheldon,UK,Web,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+427,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/07/2019,B32 3PP ,Birminham City Center,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/08/2019
+823,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/07/2019,B28 0BY ,Hall Green,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+394,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/10/2019,B17 0HH,Harborne,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,01/11/2019
+790,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/10/2019,B15 1TR,Edgbaston,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+262,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/10/2019,B26 3HP ,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+658,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/10/2019,B32 3QD ,Birminham City Center,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,01/11/2019
+130,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/10/2019,B28 0DP ,Hall Green,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+526,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/07/2019,B17 0EQ,Harborne,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,01/08/2019
+922,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/10/2019,B28 0DR ,Hall Green,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,01/11/2019
+97,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/01/2019,B26 3JA ,Sheldon,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+493,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/01/2019,B32 3QG ,Birminham City Center,UK,Letter,Stage 1,Decision Pending,FALSE,7,TRUE,01/02/2019
+889,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/01/2019,B28 0DW ,Hall Green,UK,Chat,Stage 1,Closed,TRUE,8,TRUE,01/02/2019
+361,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/01/2019,B17 0HW,Harborne,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,01/02/2019
+757,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/01/2019,B16 9BH ,Edgbaston,UK,Phone,Stage 1,Decision Pending,FALSE,7,TRUE,01/02/2019
+229,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/01/2019,B26 3JB ,Sheldon,UK,Chat,Stage 1,Complaint Upheld,FALSE,8,TRUE,01/02/2019
+625,The glass in the bus stop was shattered again.,Anti Social Behaviour,01/01/2019,B32 3QH ,Birminham City Center,UK,Phone,Stage 2,In Progress,FALSE,8,TRUE,01/02/2019
+372,Someone stole the pot plants from outside my unit.,Anti Social Behaviour,01/12/2019,B28 0EL ,Hall Green,UK,Phone,Ombudsman,Acknowledged,FALSE,3,TRUE,01/01/2020
+768,Someone keeps leaving a garden gnome outside my front door and then progressively moving it around.,Anti Social Behaviour,01/12/2019,B17 9JY ,Harborne,UK,Letter,Ombudsman,Complaint Upheld,FALSE,6,TRUE,01/01/2020
+240,There is a dogthat keeps breaking out of someones house and then using the pavement as a toilet.,Anti Social Behaviour,01/12/2019,B16 9BJ,Edgbaston,UK,Social,Ombudsman,In Progress,FALSE,10,TRUE,01/01/2020
+636,Someone cntinuously keeps waking past all of the trees on the pavement and scratching them with what appears to be a blade of some sort.,Anti Social Behaviour,01/12/2019,B26 3JE ,Sheldon,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/01/2020
+108,There is a perso driving this IRRITATING moped up and down our road at ridiculous hours of the night and waking up my children.,Anti Social Behaviour,01/12/2019,B32 3QJ,Birminham City Center,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+504,There is a car that is consistently doing wheel spins and doughnuts around the roundabout in our road.,Anti Social Behaviour,01/07/2019,B28 0EU ,Hall Green,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,01/08/2019
+900,The bus stop down the road from us keeps on being vandalised with permanent marker.,Anti Social Behaviour,01/12/2019,B28 0HD ,Hall Green,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+174,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B15 2NG ,Edgbaston,UK,Chat,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/07/2019
+570,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B26 3JG ,Sheldon,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+966,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B7 4DE ,Birminham City Center,UK,Phone,Stage 2,Closed,TRUE,2,TRUE,02/07/2019
+42,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B28 0HN ,Hall Green,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/07/2019
+438,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B17 9LA ,Harborne,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+834,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B15 2NH ,Edgbaston,UK,Chat,Stage 2,Acknowledged,FALSE,7,TRUE,02/07/2019
+306,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B26 3JH ,Sheldon,UK,Web,Stage 2,Complaint Upheld,FALSE,2,TRUE,02/07/2019
+702,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/06/2019,B7 4LT,Birminham City Center,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,02/07/2019
+75,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B28 0HP ,Hall Green,UK,Social,Stage 3,Complaint Upheld,FALSE,3,TRUE,01/04/2019
+471,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B17 9LB ,Harborne,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/04/2019
+867,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B15 2NQ ,Edgbaston,UK,Phone,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/04/2019
+339,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B26 3JR ,Sheldon,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+735,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B28 0HR ,Hall Green,UK,Social,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+207,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B28 0HS ,Hall Green,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+603,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B17 9LG,Harborne,UK,Letter,Stage 3,Acknowledged,FALSE,5,TRUE,01/04/2019
+999,"Staff members did not do what they said they were going to do, which led to me missing a payment.",Lack of action of staff affecting a group,01/03/2019,B15 2NU,Edgbaston,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/04/2019
+302,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/07/2019,B26 3JS ,Sheldon,UK,Phone,Stage 2,Acknowledged,FALSE,0,FALSE,01/08/2019
+698,The trees on our road are not looked after and are basically growing wild.,Environmental,01/02/2019,B8 1LB,Birminham City Center,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,FALSE,04/03/2019
+38,our road looks like the hundred acre woods… sort it out.,Environmental,01/02/2019,B28 0HT ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+434,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/02/2019,B17 0BN,Harborne,UK,Chat,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+830,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/02/2019,B15 3AS ,Edgbaston,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+170,The trees on our road are not looked after and are basically growing wild.,Environmental,01/02/2019,B26 3LS ,Sheldon,UK,Social,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+566,our road looks like the hundred acre woods… sort it out.,Environmental,01/02/2019,B8 1TB,Birminham City Center,UK,Web,Stage 2,Complaint Rejected,TRUE,2,TRUE,04/03/2019
+962,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/07/2019,B28 0HU ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,01/08/2019
+5,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/05/2019,B28 0HW,Hall Green,UK,Phone,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+401,The trees on our road are not looked after and are basically growing wild.,Environmental,01/05/2019,B15 3AT ,Edgbaston,UK,Web,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+797,our road looks like the hundred acre woods… sort it out.,Environmental,01/05/2019,B26 3NJ ,Sheldon,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+137,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/05/2019,B8 1ED ,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,4,FALSE,01/06/2019
+533,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/05/2019,B28 0TA,Hall Green,UK,Letter,Stage 1,Acknowledged,FALSE,7,FALSE,01/06/2019
+929,The trees on our road are not looked after and are basically growing wild.,Environmental,01/05/2019,B17 9AP,Harborne,UK,Chat,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+269,our road looks like the hundred acre woods… sort it out.,Environmental,01/05/2019,B15 3AX ,Edgbaston,UK,Chat,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+665,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/05/2019,B26 3NL ,Sheldon,UK,Social,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+16,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/04/2019,B8 1EH ,Birminham City Center,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,02/05/2019
+412,The trees on our road are not looked after and are basically growing wild.,Environmental,01/04/2019,B28 0UU,Hall Green,UK,Phone,Ombudsman,Complaint Rejected,TRUE,1,TRUE,02/05/2019
+808,our road looks like the hundred acre woods… sort it out.,Environmental,01/04/2019,B17 9EX ,Harborne,UK,Phone,Ombudsman,Decision Pending,FALSE,6,TRUE,02/05/2019
+280,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/04/2019,B28 0JP ,Hall Green,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+676,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/04/2019,B26 3NR ,Sheldon,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+148,The trees on our road are not looked after and are basically growing wild.,Environmental,01/04/2019,B8 1LD ,Birminham City Center,UK,Phone,Ombudsman,Acknowledged,FALSE,6,TRUE,02/05/2019
+544,our road looks like the hundred acre woods… sort it out.,Environmental,01/04/2019,B28 0JR,Hall Green,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,02/05/2019
+940,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/07/2019,B17 9EY ,Harborne,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,01/08/2019
+93,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/09/2019,B15 3SH ,Edgbaston,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,02/10/2019
+489,The trees on our road are not looked after and are basically growing wild.,Environmental,01/07/2019,B26 3NW ,Sheldon,UK,Phone,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/08/2019
+885,our road looks like the hundred acre woods… sort it out.,Environmental,01/09/2019,B8 1LE,Birminham City Center,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+357,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/09/2019,B28 0SR ,Hall Green,UK,Phone,Stage 1,Closed,TRUE,4,TRUE,02/10/2019
+753,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/09/2019,B17 9HA ,Harborne,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+225,The trees on our road are not looked after and are basically growing wild.,Environmental,01/09/2019,B28 0ST ,Hall Green,UK,Social,Stage 1,Acknowledged,FALSE,8,TRUE,02/10/2019
+621,our road looks like the hundred acre woods… sort it out.,Environmental,01/09/2019,B26 3PD ,Sheldon,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,02/10/2019
+203,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/11/2019,B8 1AN,Birminham City Center,UK,Letter,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+599,The trees on our road are not being pruned or taken care of properly. Its very upsetting.,Environmental,01/11/2019,B28 0SU ,Hall Green,UK,Chat,Stage 2,Decision Pending,FALSE,1,FALSE,02/12/2019
+995,The trees on our road are not looked after and are basically growing wild.,Environmental,01/11/2019,B17 9HB,Harborne,UK,Social,Stage 3,Acknowledged,FALSE,0,FALSE,02/12/2019
+335,our road looks like the hundred acre woods… sort it out.,Environmental,01/11/2019,B15 3SJ ,Edgbaston,UK,Social,Stage 3,Complaint Rejected,TRUE,1,TRUE,02/12/2019
+731,I feel as if I live in Sherwood forest with the amount of overgrown brambles in our road.,Environmental,01/11/2019,B26 3PG ,Sheldon,UK,Web,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+71,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/07/2019,B8 1DX,Birminham City Center,UK,Web,Stage 3,Acknowledged,FALSE,7,FALSE,01/08/2019
+467,The transport services are HORRENDOUS in this council.,Transport,01/07/2019,B28 0SX ,Hall Green,UK,Phone,Stage 3,Complaint Upheld,FALSE,1,FALSE,01/08/2019
+863,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/11/2019,B28 0SZ ,Hall Green,UK,Phone,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+104,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/08/2019,B15 3SR ,Edgbaston,UK,Chat,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+500,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/08/2019,B26 3PN ,Sheldon,UK,Social,Ombudsman,Decision Pending,FALSE,0,FALSE,01/09/2019
+896,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/08/2019,B8 1AW,Birminham City Center,UK,Web,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+236,The transport services are HORRENDOUS in this council.,Transport,01/07/2019,B28 0TB ,Hall Green,UK,Web,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/08/2019
+632,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/08/2019,B17 0ED ,Harborne,UK,Phone,Stage 2,In Progress,FALSE,1,FALSE,01/09/2019
+368,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/08/2019,B15 3SS ,Edgbaston,UK,Letter,Ombudsman,Decision Pending,FALSE,0,FALSE,01/09/2019
+764,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/08/2019,B26 3PP ,Sheldon,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+115,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/07/2019,B28 0TE ,Hall Green,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+511,The transport services are HORRENDOUS in this council.,Transport,01/07/2019,B28 0TF ,Hall Green,UK,Phone,Stage 3,Closed,TRUE,1,TRUE,01/08/2019
+907,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/07/2019,B17 0EE ,Harborne,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+379,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/07/2019,B15 3ST ,Edgbaston,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+775,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/07/2019,B26 3PX ,Sheldon,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+247,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/07/2019,B8 1AQ,Birminham City Center,UK,Phone,Stage 3,In Progress,FALSE,4,TRUE,01/08/2019
+643,The transport services are HORRENDOUS in this council.,Transport,01/07/2019,B28 0TG,Hall Green,UK,Letter,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+214,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/10/2019,B28 8TD ,Hall Green,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+610,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/10/2019,B15 3SX ,Edgbaston,UK,Social,Stage 2,Acknowledged,FALSE,10,TRUE,01/11/2019
+82,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/10/2019,B26 3PY ,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+478,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/07/2019,B9 4ED ,Birminham City Center,UK,Letter,Stage 2,In Progress,FALSE,7,TRUE,01/08/2019
+874,The transport services are HORRENDOUS in this council.,Transport,01/10/2019,B28 8TE,Hall Green,UK,Phone,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/11/2019
+346,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/07/2019,B17 0EF ,Harborne,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/08/2019
+742,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/10/2019,B28 8SE ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+313,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/01/2019,B26 3YU,Sheldon,UK,Phone,Stage 1,Complaint Upheld,FALSE,5,TRUE,01/02/2019
+709,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/01/2019,B9 4EE,Birminham City Center,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,01/02/2019
+181,The transport services are HORRENDOUS in this council.,Transport,01/01/2019,B28 8SF ,Hall Green,UK,Phone,Stage 1,Complaint Rejected,TRUE,0,TRUE,01/02/2019
+577,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/01/2019,B17 0EG ,Harborne,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+973,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/01/2019,B28 8SG ,Hall Green,UK,Letter,Stage 1,Closed,TRUE,3,TRUE,01/02/2019
+49,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/01/2019,B26 3JY ,Sheldon,UK,Phone,Stage 1,Closed,TRUE,8,TRUE,01/02/2019
+445,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/01/2019,B12 0SH,Birminham City Center,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+841,The transport services are HORRENDOUS in this council.,Transport,01/01/2019,B28 8SQ,Hall Green,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/02/2019
+192,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/12/2019,B28 8HT ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/01/2020
+588,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/12/2019,B15 3SZ ,Edgbaston,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+984,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/12/2019,B26 3LA ,Sheldon,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/01/2020
+60,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/07/2019,B28 8HU ,Hall Green,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/08/2019
+456,The transport services are HORRENDOUS in this council.,Transport,01/12/2019,B28 8JA ,Hall Green,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,01/01/2020
+852,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/12/2019,B28 8JD ,Hall Green,UK,Phone,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/01/2020
+324,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/12/2019,B28 8JE ,Hall Green,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+720,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/12/2019,B26 3LE,Sheldon,UK,Social,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/01/2020
+390,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/06/2019,B28 8JF ,Hall Green,UK,Social,Stage 2,Complaint Upheld,FALSE,10,TRUE,02/07/2019
+786,The transport services are HORRENDOUS in this council.,Transport,01/06/2019,B28 8JG ,Hall Green,UK,Web,Stage 2,In Progress,FALSE,2,TRUE,02/07/2019
+258,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/06/2019,B17 0EH ,Harborne,UK,Letter,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/07/2019
+654,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/06/2019,B28 8JQ ,Hall Green,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+126,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/07/2019,B26 3TU,Sheldon,UK,Web,Stage 2,Closed,TRUE,2,TRUE,01/08/2019
+522,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/06/2019,B33 0RN ,Birminham City Center,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+918,The transport services are HORRENDOUS in this council.,Transport,01/07/2019,B28 8PA ,Hall Green,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,01/08/2019
+291,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/03/2019,B28 8PB ,Hall Green,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+687,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/03/2019,B15 3TA ,Edgbaston,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/04/2019
+159,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/07/2019,B26 3SZ,Sheldon,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+555,Currently there is no transport for cildren to get to school from our area. Not even a bus.,Transport,01/03/2019,B33 0RT ,Birminham City Center,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+951,The transport services are HORRENDOUS in this council.,Transport,01/07/2019,B28 8PD ,Hall Green,UK,Web,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+27,I am going to buy myself a sleigh because Id have more chance getting to work in that than to rely on the transport in this town.,Transport,01/07/2019,B28 8PE ,Hall Green,UK,Phone,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+423,I keep getting fines for driving in a bus lane.. But our road IS a bius lane. Sort it out.,Transport,01/07/2019,B15 3TB,Edgbaston,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+819,You are stealing money from the community in the way you are fining us for doing 1 mile over the speed limit. Its mental.,Transport,01/03/2019,B26 3SX ,Sheldon,UK,Chat,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+194,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/02/2019,B33 0RU ,Birminham City Center,UK,Phone,Stage 2,Complaint Upheld,FALSE,7,FALSE,04/03/2019
+590,I actually saw a rat in the chicken place down the road!,Health,01/02/2019,B28 8PF,Hall Green,UK,Social,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+986,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/07/2019,B17 0EP ,Harborne,UK,Web,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+326,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/02/2019,B28 0PF,Hall Green,UK,Web,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+722,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/02/2019,B26 3SY,Sheldon,UK,Phone,Stage 2,Acknowledged,FALSE,3,FALSE,04/03/2019
+62,I actually saw a rat in the chicken place down the road!,Health,01/02/2019,B33 0SA,Birminham City Center,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,04/03/2019
+458,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/02/2019,B28 8SH ,Hall Green,UK,Letter,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+854,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/02/2019,B17 0ES,Harborne,UK,Chat,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+293,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/05/2019,B15 3TE ,Edgbaston,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/06/2019
+689,I actually saw a rat in the chicken place down the road!,Health,01/05/2019,B26 3LB,Sheldon,UK,Chat,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+29,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/05/2019,B28 8SJ ,Hall Green,UK,Chat,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+425,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/05/2019,B28 8SL ,Hall Green,UK,Social,Stage 1,Complaint Upheld,FALSE,0,FALSE,01/06/2019
+821,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/05/2019,B17 0HU,Harborne,UK,Web,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+161,I actually saw a rat in the chicken place down the road!,Health,01/05/2019,B15 3TF,Edgbaston,UK,Web,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+557,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/05/2019,B26 1BN,Sheldon,UK,Phone,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+953,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/05/2019,B13 9YF,Birminham City Center,UK,Letter,Stage 1,Acknowledged,FALSE,5,FALSE,01/06/2019
+304,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/04/2019,B28 8SN ,Hall Green,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+700,I actually saw a rat in the chicken place down the road!,Health,01/04/2019,B17 9AL ,Harborne,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+172,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/04/2019,B28 8SP ,Hall Green,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/05/2019
+568,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/04/2019,B26 2QJ,Sheldon,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,02/05/2019
+964,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/04/2019,B11 4JL ,Birminham City Center,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,02/05/2019
+40,I actually saw a rat in the chicken place down the road!,Health,01/04/2019,B28 8ST ,Hall Green,UK,Social,Ombudsman,Complaint Upheld,FALSE,0,TRUE,02/05/2019
+436,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/04/2019,B17 9AN,Harborne,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,02/05/2019
+832,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/04/2019,B16 0PT,Edgbaston,UK,Phone,Ombudsman,Complaint Rejected,TRUE,0,TRUE,02/05/2019
+381,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/09/2019,B26 3TH ,Sheldon,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+777,I actually saw a rat in the chicken place down the road!,Health,01/09/2019,B11 4JN,Birminham City Center,UK,Phone,Stage 1,Closed,TRUE,7,TRUE,02/10/2019
+249,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/09/2019,B28 8SU ,Hall Green,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+645,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/09/2019,B28 8SW ,Hall Green,UK,Social,Stage 2,Decision Pending,FALSE,8,TRUE,02/10/2019
+117,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/09/2019,B28 8SW ,Hall Green,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,02/10/2019
+513,I actually saw a rat in the chicken place down the road!,Health,01/09/2019,B26 3TP ,Sheldon,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,02/10/2019
+909,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/09/2019,B31 4AU,Birminham City Center,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+95,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/11/2019,B28 8SX ,Hall Green,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+491,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/11/2019,B17 0QT,Harborne,UK,Web,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+887,I actually saw a rat in the chicken place down the road!,Health,01/11/2019,B15 1TP,Edgbaston,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+227,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/11/2019,B26 3TS ,Sheldon,UK,Phone,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+623,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/11/2019,B24 0EP,Birminham City Center,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+359,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/11/2019,B28 8SY ,Hall Green,UK,Chat,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+755,I actually saw a rat in the chicken place down the road!,Health,01/11/2019,B28 8SZ ,Hall Green,UK,Social,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+392,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/08/2019,B15 2QJ ,Edgbaston,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+788,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/08/2019,B26 3TT ,Sheldon,UK,Letter,Ombudsman,Decision Pending,FALSE,6,FALSE,01/09/2019
+128,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/08/2019,B31 3BQ,Birminham City Center,UK,Letter,Ombudsman,In Progress,FALSE,0,FALSE,01/09/2019
+524,I actually saw a rat in the chicken place down the road!,Health,01/08/2019,B28 8TB,Hall Green,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+920,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/08/2019,B17 0NT ,Harborne,UK,Social,Ombudsman,Decision Pending,FALSE,10,FALSE,01/09/2019
+260,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/08/2019,B15 2QP ,Edgbaston,UK,Social,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+656,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/08/2019,B26 3UB ,Sheldon,UK,Web,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+7,I actually saw a rat in the chicken place down the road!,Health,01/07/2019,B34 7HF,Birminham City Center,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/08/2019
+403,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/07/2019,B28 8QH ,Hall Green,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+799,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/07/2019,B17 0NU ,Harborne,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+271,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/07/2019,B28 8QL ,Hall Green,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/08/2019
+667,I actually saw a rat in the chicken place down the road!,Health,01/07/2019,B26 3UF ,Sheldon,UK,Phone,Stage 3,In Progress,FALSE,4,TRUE,01/08/2019
+139,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/07/2019,B31 3LQ,Birminham City Center,UK,Chat,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+535,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/07/2019,B28 8QN ,Hall Green,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+931,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/07/2019,B17 0NY,Harborne,UK,Web,Stage 3,Closed,TRUE,1,TRUE,01/08/2019
+106,I actually saw a rat in the chicken place down the road!,Health,01/10/2019,B15 3RA ,Edgbaston,UK,Phone,Stage 2,Acknowledged,FALSE,7,TRUE,01/11/2019
+502,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/10/2019,B26 3UG ,Sheldon,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,01/11/2019
+898,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/10/2019,B17 9JX,Birminham City Center,UK,Phone,Stage 2,In Progress,FALSE,6,TRUE,01/11/2019
+370,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/10/2019,B28 9JJ ,Hall Green,UK,Social,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+766,I actually saw a rat in the chicken place down the road!,Health,01/10/2019,B17 8AY,Harborne,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+238,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/10/2019,B15 3RB ,Edgbaston,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+634,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/10/2019,B26 3YG ,Sheldon,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+205,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/01/2019,B28 9JP ,Hall Green,UK,Social,Stage 1,In Progress,FALSE,8,TRUE,01/02/2019
+601,I actually saw a rat in the chicken place down the road!,Health,01/01/2019,B28 9JR ,Hall Green,UK,Web,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/02/2019
+997,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/07/2019,B17 9BF ,Harborne,UK,Phone,Stage 2,Decision Pending,FALSE,7,TRUE,01/08/2019
+73,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/01/2019,B15 3RE,Edgbaston,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+469,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/01/2019,B26 3YH,Sheldon,UK,Chat,Stage 1,Closed,TRUE,7,TRUE,01/02/2019
+865,I actually saw a rat in the chicken place down the road!,Health,01/01/2019,B12 8XE,Birminham City Center,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+337,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/01/2019,B28 9JU ,Hall Green,UK,Phone,Stage 1,Acknowledged,FALSE,4,TRUE,01/02/2019
+733,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/01/2019,B17 9DW ,Harborne,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,01/02/2019
+84,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/12/2019,B15 2QL ,Edgbaston,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+480,I actually saw a rat in the chicken place down the road!,Health,01/12/2019,B26 3BN ,Sheldon,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+876,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/12/2019,B4 7UD ,Birminham City Center,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,01/01/2020
+348,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/12/2019,B28 9JX ,Hall Green,UK,Letter,Ombudsman,Complaint Upheld,FALSE,6,TRUE,01/01/2020
+744,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/12/2019,B17 9GA ,Harborne,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+216,I actually saw a rat in the chicken place down the road!,Health,01/12/2019,B15 2QN,Edgbaston,UK,Web,Ombudsman,Complaint Rejected,TRUE,3,TRUE,01/01/2020
+612,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/12/2019,B26 3BP ,Sheldon,UK,Phone,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+282,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/06/2019,B28 9JZ ,Hall Green,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,02/07/2019
+678,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/06/2019,B28 9LA ,Hall Green,UK,Letter,Stage 2,Complaint Rejected,TRUE,1,TRUE,02/07/2019
+150,I actually saw a rat in the chicken place down the road!,Health,01/06/2019,B17 9ND ,Harborne,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+546,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/06/2019,B16 8JE ,Edgbaston,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+942,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/06/2019,B26 3DA ,Sheldon,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+18,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/06/2019,B5 5JT ,Birminham City Center,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+414,I actually saw a rat in the chicken place down the road!,Health,01/06/2019,B28 9JZ ,Hall Green,UK,Chat,Stage 2,Acknowledged,FALSE,7,TRUE,02/07/2019
+810,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/06/2019,B17 9NE ,Harborne,UK,Social,Stage 2,Complaint Upheld,FALSE,10,TRUE,02/07/2019
+183,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/03/2019,B16 8SN ,Edgbaston,UK,Letter,Stage 3,Acknowledged,FALSE,5,TRUE,01/04/2019
+579,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/03/2019,B26 3DB ,Sheldon,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/04/2019
+975,I actually saw a rat in the chicken place down the road!,Health,01/03/2019,B5 5LG,Birminham City Center,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+51,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/03/2019,B28 9LA ,Hall Green,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/04/2019
+447,You ned to really start looking to doing health inspections in the high street. Its disgusting.,Health,01/03/2019,B17 9NJ ,Harborne,UK,Phone,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/04/2019
+843,I think you REALLY need to start doing health inspections in some of the restaurants in this city.,Health,01/03/2019,B16 8SN ,Edgbaston,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+315,I actually saw a rat in the chicken place down the road!,Health,01/03/2019,B26 3DL ,Sheldon,UK,Social,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+711,There were literally 10 cockroaches in the restaurant on the corner in town.,Health,01/03/2019,B17 0AR,Birminham City Center,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019

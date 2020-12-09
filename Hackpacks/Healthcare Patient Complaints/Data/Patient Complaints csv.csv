@@ -1,0 +1,1001 @@
+Unique ID,Complaint Description,Category,Health Care Facility,Date logged,City,Country,Origin,Stage,Sub Status,Closed Successfully,Satisfaction,Within SLA,Closed date
+914,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,ACME Health Care,01/07/2019,Bristol,UK,Chat,Stage 2,Decision Pending,FALSE,7,FALSE,01/08/2019
+254,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,ACME Health Care,01/07/2019,London,UK,Chat,Stage 2,In Progress,FALSE,1,FALSE,01/08/2019
+650,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,ACME Health Care,01/02/2019,Manchester,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+386,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,ACME Health Care,01/02/2019,London,UK,Web,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+782,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,ACME Health Care,01/02/2019,Nottingham,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,FALSE,04/03/2019
+2,Rude Staff members,Staff Member Complaint,ACME Health Care,01/02/2019,Manchester,UK,Phone,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+398,Rude Staff members,Staff Member Complaint,ACME Health Care,01/02/2019,Manchester,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,04/03/2019
+794,Rude Staff members,Staff Member Complaint,ACME Health Care,01/02/2019,Manchester,UK,Chat,Stage 2,Decision Pending,FALSE,7,FALSE,04/03/2019
+134,Rude Staff members,Staff Member Complaint,ACME Health Care,01/02/2019,Nottingham,UK,Chat,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+530,Rude Staff members,Staff Member Complaint,ACME Health Care,01/02/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+926,Rude Staff members,Staff Member Complaint,ACME Health Care,01/02/2019,Nottingham,UK,Web,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+74,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,ACME Health Care,01/02/2019,Manchester,UK,Chat,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+470,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,ACME Health Care,01/02/2019,Manchester,UK,Social,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+866,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,ACME Health Care,01/02/2019,Manchester,UK,Web,Stage 2,Decision Pending,FALSE,2,FALSE,04/03/2019
+206,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,ACME Health Care,01/02/2019,Nottingham,UK,Web,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+602,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,ACME Health Care,01/02/2019,Nottingham,UK,Phone,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+998,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,ACME Health Care,01/02/2019,Nottingham,UK,Letter,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+842,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,ACME Health Care,01/02/2019,Bristol,UK,Phone,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+182,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,ACME Health Care,01/02/2019,Manchester,UK,Phone,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+578,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,ACME Health Care,01/02/2019,Manchester,UK,Letter,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+974,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,ACME Health Care,01/02/2019,Manchester,UK,Chat,Stage 2,Acknowledged,FALSE,0,FALSE,04/03/2019
+314,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,ACME Health Care,01/02/2019,Nottingham,UK,Chat,Stage 2,Complaint Rejected,TRUE,4,TRUE,04/03/2019
+710,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,ACME Health Care,01/02/2019,Nottingham,UK,Social,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+110,Experiencing a change in condition that was overlooked and not treated,Change in Condition,ACME Health Care,01/02/2019,Manchester,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+506,Experiencing a change in condition that was overlooked and not treated,Change in Condition,ACME Health Care,01/02/2019,Manchester,UK,Web,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+902,Experiencing a change in condition that was overlooked and not treated,Change in Condition,ACME Health Care,01/02/2019,Manchester,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,04/03/2019
+242,Experiencing a change in condition that was overlooked and not treated,Change in Condition,ACME Health Care,01/02/2019,Nottingham,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+638,Experiencing a change in condition that was overlooked and not treated,Change in Condition,ACME Health Care,01/02/2019,Nottingham,UK,Letter,Stage 2,Acknowledged,FALSE,0,FALSE,04/03/2019
+950,Receiving inadequate discharge instructions,Discharge Instructions,ACME Health Care,01/02/2019,Bristol,UK,Social,Stage 2,Complaint Upheld,FALSE,10,FALSE,04/03/2019
+290,Receiving inadequate discharge instructions,Discharge Instructions,ACME Health Care,01/02/2019,Manchester,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+686,Receiving inadequate discharge instructions,Discharge Instructions,ACME Health Care,01/02/2019,Manchester,UK,Web,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+26,Receiving inadequate discharge instructions,Discharge Instructions,ACME Health Care,01/02/2019,Nottingham,UK,Web,Stage 2,Complaint Upheld,FALSE,2,FALSE,04/03/2019
+422,Receiving inadequate discharge instructions,Discharge Instructions,ACME Health Care,01/07/2019,London,UK,Phone,Stage 2,In Progress,FALSE,1,FALSE,01/08/2019
+818,Receiving inadequate discharge instructions,Discharge Instructions,ACME Health Care,01/02/2019,Nottingham,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,04/03/2019
+806,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Bristol,UK,Web,Stage 2,Acknowledged,FALSE,2,FALSE,04/03/2019
+146,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Manchester,UK,Web,Stage 2,Complaint Rejected,TRUE,1,TRUE,04/03/2019
+542,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Manchester,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+938,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Manchester,UK,Letter,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+278,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Nottingham,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,FALSE,04/03/2019
+674,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Nottingham,UK,Chat,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+362,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/07/2019,Manchester,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,FALSE,01/08/2019
+758,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Manchester,UK,Letter,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+98,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Nottingham,UK,Letter,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+494,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,London,UK,Chat,Stage 2,Decision Pending,FALSE,7,FALSE,04/03/2019
+890,Home care was not provided to an elderly person,Health and social care services,ACME Health Care,01/02/2019,Nottingham,UK,Phone,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+878,I was billed incorrectly for the treatment I received,Billing,ACME Health Care,01/02/2019,Bristol,UK,Phone,Stage 2,Decision Pending,FALSE,6,FALSE,04/03/2019
+218,I was billed incorrectly for the treatment I received,Billing,ACME Health Care,01/07/2019,London,UK,Letter,Stage 2,Acknowledged,FALSE,1,FALSE,01/08/2019
+614,I was billed incorrectly for the treatment I received,Billing,ACME Health Care,01/02/2019,Manchester,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,FALSE,04/03/2019
+350,I was billed incorrectly for the treatment I received,Billing,ACME Health Care,01/02/2019,London,UK,Phone,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+746,I was billed incorrectly for the treatment I received,Billing,ACME Health Care,01/02/2019,Nottingham,UK,Web,Stage 2,Decision Pending,FALSE,2,FALSE,04/03/2019
+38,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,ACME Health Care,01/02/2019,Manchester,UK,Phone,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+434,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,ACME Health Care,01/02/2019,Manchester,UK,Chat,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+830,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,ACME Health Care,01/02/2019,Manchester,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+170,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,ACME Health Care,01/02/2019,Nottingham,UK,Social,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+566,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,ACME Health Care,01/02/2019,London,UK,Web,Stage 2,Complaint Rejected,TRUE,2,TRUE,04/03/2019
+962,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,ACME Health Care,01/07/2019,Nottingham,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,01/08/2019
+986,Resources Unavailable - Patient waited a long time to see someone,Resourceing,ACME Health Care,01/07/2019,Bristol,UK,Web,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+326,Resources Unavailable - Patient waited a long time to see someone,Resourceing,ACME Health Care,01/02/2019,Manchester,UK,Web,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+722,Resources Unavailable - Patient waited a long time to see someone,Resourceing,ACME Health Care,01/02/2019,Manchester,UK,Phone,Stage 2,Acknowledged,FALSE,3,FALSE,04/03/2019
+62,Resources Unavailable - Patient waited a long time to see someone,Resourceing,ACME Health Care,01/02/2019,Nottingham,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,04/03/2019
+458,Resources Unavailable - Patient waited a long time to see someone,Resourceing,ACME Health Care,01/02/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+854,Resources Unavailable - Patient waited a long time to see someone,Resourceing,ACME Health Care,01/02/2019,Nottingham,UK,Chat,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+221,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,CDP Doctors Rooms,01/05/2019,Bristol,UK,Web,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+41,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,CDP Doctors Rooms,01/07/2019,Bristol,UK,Web,Stage 1,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+149,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,CDP Doctors Rooms,01/05/2019,Bristol,UK,Chat,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+77,Experiencing a change in condition that was overlooked and not treated,Change in Condition,CDP Doctors Rooms,01/05/2019,Bristol,UK,Phone,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+257,Receiving inadequate discharge instructions,Discharge Instructions,CDP Doctors Rooms,01/05/2019,Bristol,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,FALSE,01/06/2019
+113,Home care was not provided to an elderly person,Health and social care services,CDP Doctors Rooms,01/05/2019,Bristol,UK,Letter,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+185,I was billed incorrectly for the treatment I received,Billing,CDP Doctors Rooms,01/05/2019,Bristol,UK,Social,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+5,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,CDP Doctors Rooms,01/05/2019,Bristol,UK,Phone,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+293,Resources Unavailable - Patient waited a long time to see someone,Resourceing,CDP Doctors Rooms,01/05/2019,Bristol,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/06/2019
+892,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Dinder Surgeries,01/04/2019,London,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,02/05/2019
+364,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Dinder Surgeries,01/04/2019,Reading,UK,Chat,Ombudsman,Closed,FALSE,0,FALSE,02/05/2019
+760,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Decision Pending,FALSE,10,TRUE,02/05/2019
+112,Rude Staff members,Staff Member Complaint,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+508,Rude Staff members,Staff Member Complaint,Dinder Surgeries,01/04/2019,Reading,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,02/05/2019
+904,Rude Staff members,Staff Member Complaint,Dinder Surgeries,01/04/2019,Reading,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,02/05/2019
+712,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Dinder Surgeries,01/04/2019,London,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,02/05/2019
+184,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Dinder Surgeries,01/04/2019,Reading,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,02/05/2019
+580,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Dinder Surgeries,01/04/2019,Reading,UK,Social,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/05/2019
+976,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Dinder Surgeries,01/04/2019,Reading,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+820,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Dinder Surgeries,01/04/2019,London,UK,Social,Ombudsman,Acknowledged,FALSE,1,TRUE,02/05/2019
+292,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Dinder Surgeries,01/07/2019,Reading,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/08/2019
+688,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,In Progress,FALSE,6,TRUE,02/05/2019
+748,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Dinder Surgeries,01/04/2019,London,UK,Letter,Ombudsman,Complaint Rejected,TRUE,0,TRUE,02/05/2019
+220,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Dinder Surgeries,01/04/2019,Reading,UK,Social,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+616,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+928,Receiving inadequate discharge instructions,Discharge Instructions,Dinder Surgeries,01/04/2019,London,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,02/05/2019
+4,Receiving inadequate discharge instructions,Discharge Instructions,Dinder Surgeries,01/04/2019,Reading,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+400,Receiving inadequate discharge instructions,Discharge Instructions,Dinder Surgeries,01/04/2019,Reading,UK,Social,Ombudsman,Acknowledged,FALSE,1,TRUE,02/05/2019
+796,Receiving inadequate discharge instructions,Discharge Instructions,Dinder Surgeries,01/04/2019,Reading,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,02/05/2019
+784,Home care was not provided to an elderly person,Health and social care services,Dinder Surgeries,01/04/2019,London,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+256,Home care was not provided to an elderly person,Health and social care services,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+652,Home care was not provided to an elderly person,Health and social care services,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,02/05/2019
+1000,Home care was not provided to an elderly person,Health and social care services,Dinder Surgeries,01/07/2019,London,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+76,Home care was not provided to an elderly person,Health and social care services,Dinder Surgeries,01/04/2019,Reading,UK,Web,Ombudsman,Complaint Rejected,TRUE,3,TRUE,02/05/2019
+472,Home care was not provided to an elderly person,Health and social care services,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+868,Home care was not provided to an elderly person,Health and social care services,Dinder Surgeries,01/04/2019,Reading,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+856,I was billed incorrectly for the treatment I received,Billing,Dinder Surgeries,01/04/2019,London,UK,Phone,Ombudsman,In Progress,FALSE,2,TRUE,02/05/2019
+328,I was billed incorrectly for the treatment I received,Billing,Dinder Surgeries,01/04/2019,Reading,UK,Letter,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+724,I was billed incorrectly for the treatment I received,Billing,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+148,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Acknowledged,FALSE,6,TRUE,02/05/2019
+544,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Dinder Surgeries,01/04/2019,Reading,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,02/05/2019
+940,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Dinder Surgeries,01/07/2019,Reading,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,01/08/2019
+964,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Dinder Surgeries,01/04/2019,London,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,02/05/2019
+40,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Dinder Surgeries,01/04/2019,Reading,UK,Social,Ombudsman,Complaint Upheld,FALSE,0,TRUE,02/05/2019
+436,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Dinder Surgeries,01/04/2019,Reading,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,02/05/2019
+832,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Dinder Surgeries,01/04/2019,Reading,UK,Phone,Ombudsman,Complaint Rejected,TRUE,0,TRUE,02/05/2019
+122,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/02/2019,Bristol,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+518,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/07/2019,Bristol,UK,Phone,Stage 2,Closed,TRUE,1,FALSE,01/08/2019
+617,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/05/2019,Bristol,UK,Phone,Stage 1,Acknowledged,FALSE,4,FALSE,01/06/2019
+353,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/05/2019,Manchester,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+749,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/05/2019,Manchester,UK,Chat,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+89,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Chat,Stage 1,Complaint Upheld,FALSE,3,FALSE,01/06/2019
+485,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/07/2019,London,UK,Social,Stage 1,In Progress,FALSE,1,FALSE,01/08/2019
+881,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+232,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Acknowledged,FALSE,3,TRUE,02/05/2019
+628,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Ombudsman,Complaint Upheld,FALSE,6,TRUE,02/05/2019
+100,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/04/2019,London,UK,Social,Ombudsman,In Progress,FALSE,7,TRUE,02/05/2019
+496,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Complaint Rejected,TRUE,1,TRUE,02/05/2019
+309,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/09/2019,London,UK,Chat,Stage 1,Acknowledged,FALSE,8,TRUE,02/10/2019
+705,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Phone,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+177,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/07/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/08/2019
+573,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/09/2019,London,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+969,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/09/2019,Liverpool,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+45,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Social,Stage 2,Decision Pending,FALSE,8,TRUE,02/10/2019
+441,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Web,Stage 1,Closed,TRUE,1,TRUE,02/10/2019
+837,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+23,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/11/2019,Bristol,UK,Phone,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+320,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/08/2019,London,UK,Social,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+716,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/08/2019,Bristol,UK,Web,Ombudsman,In Progress,FALSE,0,FALSE,01/09/2019
+56,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/08/2019,Manchester,UK,Web,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+452,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/07/2019,Manchester,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/08/2019
+848,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/08/2019,Manchester,UK,Phone,Ombudsman,Acknowledged,FALSE,0,FALSE,01/09/2019
+188,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Letter,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+331,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/07/2019,London,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/08/2019
+661,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/01/2019,Reading,UK,Phone,Stage 1,Decision Pending,FALSE,1,TRUE,01/02/2019
+12,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/12/2019,London,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/01/2020
+408,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Letter,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+804,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Chat,Ombudsman,Complaint Rejected,TRUE,3,TRUE,01/01/2020
+266,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/02/2019,Bristol,UK,Web,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+662,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/02/2019,Bristol,UK,Phone,Stage 2,Decision Pending,FALSE,3,FALSE,04/03/2019
+365,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/05/2019,London,UK,Social,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+761,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/05/2019,Bristol,UK,Phone,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+101,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/05/2019,Manchester,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,01/06/2019
+497,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/05/2019,Manchester,UK,Phone,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+893,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/05/2019,Manchester,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+233,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Letter,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+629,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Chat,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/06/2019
+376,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/07/2019,London,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/08/2019
+772,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,02/05/2019
+244,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+640,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Decision Pending,FALSE,10,TRUE,02/05/2019
+57,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,Acknowledged,FALSE,4,TRUE,02/10/2019
+453,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,02/10/2019
+849,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+321,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/09/2019,London,UK,Web,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+717,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+189,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/09/2019,London,UK,Chat,Stage 1,Closed,TRUE,7,TRUE,02/10/2019
+585,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+981,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/07/2019,Maidenhead,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/08/2019
+167,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/11/2019,Bristol,UK,Phone,Stage 3,Complaint Rejected,TRUE,1,TRUE,02/12/2019
+68,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/08/2019,Bristol,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,FALSE,01/09/2019
+464,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/07/2019,Bristol,UK,Chat,Ombudsman,In Progress,FALSE,1,FALSE,01/08/2019
+860,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/08/2019,Bristol,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+200,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/08/2019,London,UK,Social,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+596,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/08/2019,Manchester,UK,Web,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+992,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/08/2019,Manchester,UK,Phone,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+332,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/09/2019
+805,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/01/2019,Reading,UK,Social,Stage 1,Closed,TRUE,8,TRUE,01/02/2019
+156,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/12/2019,London,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,01/01/2020
+552,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Phone,Ombudsman,Complaint Rejected,TRUE,0,TRUE,01/01/2020
+948,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/07/2019,Birmingham,UK,Letter,Ombudsman,Decision Pending,FALSE,7,TRUE,01/08/2019
+24,Rude Staff members,Staff Member Complaint,Victoria Rd Surgery,01/12/2019,London,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+338,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/02/2019,London,UK,Letter,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+734,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/02/2019,Bristol,UK,Chat,Stage 2,Complaint Rejected,TRUE,3,TRUE,04/03/2019
+437,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/05/2019,Bristol,UK,Phone,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+833,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/05/2019,Bristol,UK,Letter,Stage 1,Closed,TRUE,0,FALSE,01/06/2019
+173,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/05/2019,Manchester,UK,Letter,Stage 1,Complaint Upheld,FALSE,0,FALSE,01/06/2019
+569,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/05/2019,Manchester,UK,Chat,Stage 2,In Progress,FALSE,0,FALSE,01/06/2019
+965,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/05/2019,Manchester,UK,Social,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/06/2019
+305,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Social,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+701,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Web,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+52,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/04/2019,Leeds,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/05/2019
+448,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+844,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+316,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/07/2019,London,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,01/08/2019
+129,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/09/2019,London,UK,Chat,Stage 1,Decision Pending,FALSE,7,TRUE,02/10/2019
+525,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Social,Stage 1,Closed,TRUE,3,TRUE,02/10/2019
+921,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+393,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/09/2019,London,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,02/10/2019
+789,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+261,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Web,Stage 1,In Progress,FALSE,1,TRUE,02/10/2019
+657,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+239,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/11/2019,Bristol,UK,Phone,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+140,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/08/2019,Bristol,UK,Phone,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+536,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/07/2019,Bristol,UK,Web,Ombudsman,Decision Pending,FALSE,0,FALSE,01/08/2019
+932,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/08/2019,Bristol,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+272,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/08/2019,London,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+668,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/08/2019,Manchester,UK,Letter,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+8,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/07/2019,Nottingham,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/08/2019
+404,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Victoria Rd Surgery,01/08/2019,London,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+481,Experiencing a delay in service,Delay in Service,Victoria Rd Surgery,01/01/2019,Reading,UK,Phone,Stage 1,Decision Pending,FALSE,7,TRUE,01/02/2019
+877,Experiencing a delay in service,Delay in Service,Victoria Rd Surgery,01/01/2019,Reading,UK,Phone,Stage 1,In Progress,FALSE,4,TRUE,01/02/2019
+228,Experiencing a delay in service,Delay in Service,Victoria Rd Surgery,01/12/2019,London,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+624,Experiencing a delay in service,Delay in Service,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,01/01/2020
+96,Experiencing a delay in service,Delay in Service,Victoria Rd Surgery,01/07/2019,London,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/08/2019
+50,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/07/2019,Bristol,UK,Social,Stage 2,Acknowledged,FALSE,1,FALSE,01/08/2019
+446,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/07/2019,Bristol,UK,Web,Stage 2,Complaint Upheld,FALSE,2,FALSE,01/08/2019
+545,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/05/2019,Bristol,UK,Phone,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/06/2019
+941,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/05/2019,Bristol,UK,Web,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+281,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/05/2019,Manchester,UK,Web,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+677,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/05/2019,Manchester,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,FALSE,01/06/2019
+17,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/07/2019,Nottingham,UK,Phone,Stage 1,Decision Pending,FALSE,0,FALSE,01/08/2019
+413,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/07/2019,London,UK,Letter,Stage 1,Closed,TRUE,1,FALSE,01/08/2019
+809,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Chat,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+160,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/04/2019,London,UK,Social,Ombudsman,Complaint Rejected,TRUE,1,TRUE,02/05/2019
+556,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/04/2019,London,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+952,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+28,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Stage 2,Closed,TRUE,6,TRUE,02/05/2019
+424,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+237,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+633,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Phone,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+105,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,Closed,TRUE,8,TRUE,02/10/2019
+501,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/09/2019,London,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+897,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/07/2019,Liverpool,UK,Phone,Stage 1,Acknowledged,FALSE,4,TRUE,01/08/2019
+369,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Chat,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+765,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Social,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+347,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/11/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+248,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/08/2019,Bristol,UK,Letter,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+644,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/08/2019,Bristol,UK,Chat,Ombudsman,Closed,FALSE,3,FALSE,01/09/2019
+380,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/07/2019,Manchester,UK,Social,Ombudsman,In Progress,FALSE,0,FALSE,01/08/2019
+776,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/08/2019,Manchester,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+116,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Phone,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+512,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/08/2019,London,UK,Phone,Ombudsman,Acknowledged,FALSE,0,FALSE,01/09/2019
+589,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/01/2019,Reading,UK,Chat,Stage 1,Acknowledged,FALSE,8,TRUE,01/02/2019
+985,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/07/2019,Reading,UK,Social,Stage 1,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+336,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/12/2019,London,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,01/01/2020
+732,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,01/01/2020
+204,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Victoria Rd Surgery,01/12/2019,London,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,01/01/2020
+374,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/02/2019,London,UK,Chat,Stage 2,Decision Pending,FALSE,0,FALSE,04/03/2019
+770,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/02/2019,Bristol,UK,Social,Stage 2,Closed,TRUE,0,FALSE,04/03/2019
+473,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/07/2019,Bristol,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/08/2019
+869,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/05/2019,Bristol,UK,Phone,Stage 1,Acknowledged,FALSE,0,FALSE,01/06/2019
+209,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/05/2019,London,UK,Chat,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/06/2019
+605,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/05/2019,Manchester,UK,Social,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+341,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/05/2019,London,UK,Web,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+737,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Phone,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+88,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,7,TRUE,02/05/2019
+484,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,02/05/2019
+880,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/04/2019,London,UK,Social,Ombudsman,Complaint Upheld,FALSE,10,TRUE,02/05/2019
+352,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,02/05/2019
+165,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/09/2019,London,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+561,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+957,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Phone,Stage 1,Complaint Upheld,FALSE,7,TRUE,02/10/2019
+33,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/07/2019,London,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,01/08/2019
+429,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/09/2019,London,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+825,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/09/2019,Liverpool,UK,Social,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+297,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,02/10/2019
+693,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Letter,Stage 1,Closed,TRUE,5,TRUE,02/10/2019
+275,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Victoria Rd Surgery,01/11/2019,Bristol,UK,Social,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+176,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Victoria Rd Surgery,01/08/2019,Bristol,UK,Web,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+572,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Victoria Rd Surgery,01/08/2019,Bristol,UK,Phone,Ombudsman,Complaint Upheld,FALSE,0,FALSE,01/09/2019
+968,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Victoria Rd Surgery,01/08/2019,Bristol,UK,Letter,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+308,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Victoria Rd Surgery,01/08/2019,Manchester,UK,Letter,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+704,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Victoria Rd Surgery,01/08/2019,Manchester,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+44,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Chat,Ombudsman,In Progress,FALSE,0,FALSE,01/09/2019
+440,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Victoria Rd Surgery,01/08/2019,London,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+517,Receiving a misdiagnosis,Misdiagnosis,Victoria Rd Surgery,01/01/2019,Reading,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+913,Receiving a misdiagnosis,Misdiagnosis,Victoria Rd Surgery,01/01/2019,Reading,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+264,Receiving a misdiagnosis,Misdiagnosis,Victoria Rd Surgery,01/12/2019,London,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/01/2020
+660,Receiving a misdiagnosis,Misdiagnosis,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Phone,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+132,Receiving a misdiagnosis,Misdiagnosis,Victoria Rd Surgery,01/12/2019,London,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+158,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/02/2019,Bristol,UK,Phone,Stage 2,Decision Pending,FALSE,1,FALSE,04/03/2019
+554,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/02/2019,Bristol,UK,Chat,Stage 2,Acknowledged,FALSE,1,FALSE,04/03/2019
+653,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/05/2019,Bristol,UK,Letter,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+389,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/05/2019,Manchester,UK,Chat,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+785,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/05/2019,Manchester,UK,Social,Stage 1,Acknowledged,FALSE,0,FALSE,01/06/2019
+125,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Social,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+521,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/05/2019,London,UK,Web,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+917,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Phone,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+268,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Ombudsman,In Progress,FALSE,6,TRUE,02/05/2019
+664,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+136,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/04/2019,London,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+532,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/05/2019
+345,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/09/2019,London,UK,Social,Stage 1,In Progress,FALSE,8,TRUE,02/10/2019
+741,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Web,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+213,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/09/2019,London,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+609,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/09/2019,London,UK,Chat,Stage 1,Closed,TRUE,8,TRUE,02/10/2019
+81,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+477,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Phone,Stage 1,Acknowledged,FALSE,7,TRUE,02/10/2019
+873,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,02/10/2019
+59,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/11/2019,Bristol,UK,Phone,Stage 2,Decision Pending,FALSE,1,FALSE,02/12/2019
+356,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/07/2019,London,UK,Web,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+752,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/08/2019,Bristol,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/09/2019
+92,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/08/2019,Manchester,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+488,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/07/2019,Manchester,UK,Letter,Ombudsman,Complaint Upheld,FALSE,0,FALSE,01/08/2019
+884,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/08/2019,Manchester,UK,Phone,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+224,Receiving inadequate discharge instructions,Discharge Instructions,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+697,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/01/2019,Reading,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+48,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/12/2019,London,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+444,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+840,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+14,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/02/2019,Bristol,UK,Chat,Stage 2,Closed,TRUE,1,FALSE,04/03/2019
+410,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/07/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,0,FALSE,01/08/2019
+509,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Bristol,UK,Chat,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+905,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Bristol,UK,Social,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+245,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,London,UK,Social,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+641,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Manchester,UK,Web,Stage 2,Decision Pending,FALSE,1,FALSE,01/06/2019
+377,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,London,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+773,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Letter,Stage 1,Decision Pending,FALSE,3,FALSE,01/06/2019
+124,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,02/05/2019
+520,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,In Progress,FALSE,10,TRUE,02/05/2019
+916,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,02/05/2019
+388,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/05/2019
+201,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,London,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,02/10/2019
+597,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Phone,Stage 1,In Progress,FALSE,7,TRUE,02/10/2019
+993,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+69,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,London,UK,Chat,Stage 1,Complaint Rejected,TRUE,4,TRUE,02/10/2019
+465,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,London,UK,Social,Stage 1,Decision Pending,FALSE,7,TRUE,02/10/2019
+861,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Liverpool,UK,Web,Stage 1,Closed,TRUE,3,TRUE,02/10/2019
+333,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Letter,Stage 1,Decision Pending,FALSE,7,TRUE,02/10/2019
+729,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+311,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/07/2019,Bristol,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,01/08/2019
+212,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/08/2019,Bristol,UK,Phone,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+608,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/08/2019,Bristol,UK,Letter,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+344,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/07/2019,Manchester,UK,Chat,Ombudsman,Acknowledged,FALSE,1,FALSE,01/08/2019
+740,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/08/2019,Manchester,UK,Social,Ombudsman,Complaint Upheld,FALSE,0,FALSE,01/09/2019
+80,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Social,Ombudsman,Decision Pending,FALSE,7,TRUE,01/09/2019
+476,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/08/2019,London,UK,Web,Ombudsman,Closed,FALSE,3,FALSE,01/09/2019
+553,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/01/2019,Reading,UK,Phone,Stage 1,Closed,TRUE,3,TRUE,01/02/2019
+949,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/01/2019,Reading,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+300,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/12/2019,London,UK,Social,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+696,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Phone,Ombudsman,Decision Pending,FALSE,2,TRUE,01/01/2020
+168,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/12/2019,London,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+230,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/02/2019,Bristol,UK,Social,Stage 2,Complaint Rejected,TRUE,0,TRUE,04/03/2019
+626,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/02/2019,Bristol,UK,Web,Stage 2,Decision Pending,FALSE,2,FALSE,04/03/2019
+329,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/07/2019,London,UK,Chat,Stage 1,Closed,TRUE,0,FALSE,01/08/2019
+725,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Bristol,UK,Social,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+65,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Manchester,UK,Social,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+461,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Manchester,UK,Web,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+857,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Manchester,UK,Phone,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+197,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Phone,Stage 1,Acknowledged,FALSE,4,FALSE,01/06/2019
+593,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Letter,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+989,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Chat,Stage 2,In Progress,FALSE,1,FALSE,01/06/2019
+340,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,02/05/2019
+736,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,02/05/2019
+208,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Complaint Upheld,FALSE,6,TRUE,02/05/2019
+604,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,02/05/2019
+21,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/07/2019,London,UK,Web,Stage 2,Closed,TRUE,7,TRUE,01/08/2019
+417,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/07/2019,Birmingham,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/08/2019
+813,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,02/10/2019
+285,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,London,UK,Social,Stage 1,Complaint Upheld,FALSE,8,TRUE,02/10/2019
+681,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,In Progress,FALSE,1,TRUE,02/10/2019
+153,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,02/10/2019
+549,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+945,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Social,Stage 1,Closed,TRUE,8,TRUE,02/10/2019
+131,Home care was not provided to an elderly person,Health and social care services,Victoria Rd Surgery,01/11/2019,Bristol,UK,Web,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+32,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Bristol,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/09/2019
+428,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,London,UK,Letter,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+824,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Bristol,UK,Chat,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+164,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+560,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+956,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Web,Ombudsman,Decision Pending,FALSE,2,FALSE,01/09/2019
+296,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Web,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+769,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/01/2019,Reading,UK,Chat,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+120,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/12/2019,London,UK,Social,Ombudsman,Acknowledged,FALSE,1,TRUE,01/01/2020
+516,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Phone,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/01/2020
+912,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Phone,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+86,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/02/2019,Bristol,UK,Web,Stage 2,In Progress,FALSE,1,FALSE,04/03/2019
+482,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/07/2019,Bristol,UK,Phone,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+581,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/05/2019,Bristol,UK,Web,Stage 1,Closed,TRUE,0,FALSE,01/06/2019
+977,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/05/2019,Bristol,UK,Phone,Stage 2,Decision Pending,FALSE,4,FALSE,01/06/2019
+317,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/05/2019,Manchester,UK,Phone,Stage 2,In Progress,FALSE,1,FALSE,01/06/2019
+713,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/05/2019,Manchester,UK,Letter,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+53,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Letter,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+449,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/05/2019,London,UK,Chat,Stage 2,Acknowledged,FALSE,1,FALSE,01/06/2019
+845,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Social,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+196,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/04/2019,London,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+592,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,02/05/2019
+988,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,02/05/2019
+64,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Acknowledged,FALSE,7,TRUE,02/05/2019
+460,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/07/2019,London,UK,Social,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+273,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,London,UK,Letter,Stage 1,Closed,TRUE,5,TRUE,02/10/2019
+669,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+141,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,London,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+537,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,02/10/2019
+933,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,Liverpool,UK,Phone,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+9,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+405,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Social,Stage 1,Complaint Rejected,TRUE,1,TRUE,02/10/2019
+801,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+284,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Bristol,UK,Chat,Ombudsman,Decision Pending,FALSE,0,FALSE,01/09/2019
+680,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Bristol,UK,Social,Ombudsman,Acknowledged,FALSE,0,FALSE,01/09/2019
+20,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Social,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+416,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/07/2019,Manchester,UK,Web,Ombudsman,Decision Pending,FALSE,1,FALSE,01/08/2019
+812,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Phone,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+152,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Phone,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+548,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/07/2019,London,UK,Letter,Ombudsman,In Progress,FALSE,1,FALSE,01/08/2019
+295,I was billed incorrectly for the treatment I received,Billing,Victoria Rd Surgery,01/07/2019,London,UK,Social,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+625,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/01/2019,Reading,UK,Phone,Stage 2,In Progress,FALSE,8,TRUE,01/02/2019
+372,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/12/2019,London,UK,Phone,Ombudsman,Acknowledged,FALSE,3,TRUE,01/01/2020
+768,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Letter,Ombudsman,Complaint Upheld,FALSE,6,TRUE,01/01/2020
+240,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/12/2019,London,UK,Social,Ombudsman,In Progress,FALSE,10,TRUE,01/01/2020
+302,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/07/2019,Bristol,UK,Phone,Stage 2,Acknowledged,FALSE,0,FALSE,01/08/2019
+698,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/02/2019,Bristol,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,FALSE,04/03/2019
+401,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/05/2019,London,UK,Web,Stage 1,In Progress,FALSE,1,FALSE,01/06/2019
+797,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Victoria Rd Surgery,01/05/2019,Bristol,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/06/2019
+137,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/05/2019,Manchester,UK,Phone,Stage 2,Decision Pending,FALSE,4,FALSE,01/06/2019
+533,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/05/2019,Manchester,UK,Letter,Stage 1,Acknowledged,FALSE,7,FALSE,01/06/2019
+929,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/05/2019,Manchester,UK,Chat,Stage 1,Complaint Upheld,FALSE,1,FALSE,01/06/2019
+269,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Chat,Stage 1,Decision Pending,FALSE,0,FALSE,01/06/2019
+665,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Social,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+16,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/04/2019,Leeds,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,02/05/2019
+412,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Complaint Rejected,TRUE,1,TRUE,02/05/2019
+808,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Ombudsman,Decision Pending,FALSE,6,TRUE,02/05/2019
+280,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/04/2019,London,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+676,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/04/2019,London,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,02/05/2019
+93,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/09/2019,London,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,02/10/2019
+489,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/07/2019,Birmingham,UK,Phone,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/08/2019
+885,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+357,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/09/2019,London,UK,Phone,Stage 1,Closed,TRUE,4,TRUE,02/10/2019
+753,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/09/2019,London,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,02/10/2019
+225,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Social,Stage 1,Acknowledged,FALSE,8,TRUE,02/10/2019
+621,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,02/10/2019
+203,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/11/2019,Bristol,UK,Letter,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+104,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/08/2019,Bristol,UK,Chat,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/09/2019
+500,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/08/2019,Bristol,UK,Social,Ombudsman,Decision Pending,FALSE,0,FALSE,01/09/2019
+896,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/08/2019,Bristol,UK,Web,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+236,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/07/2019,London,UK,Web,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/08/2019
+632,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/08/2019,Manchester,UK,Phone,Stage 2,In Progress,FALSE,1,FALSE,01/09/2019
+368,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/08/2019,London,UK,Letter,Ombudsman,Decision Pending,FALSE,0,FALSE,01/09/2019
+445,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/01/2019,Reading,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+841,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/01/2019,Reading,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/02/2019
+192,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/12/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/01/2020
+588,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+984,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/01/2020
+60,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Victoria Rd Surgery,01/07/2019,London,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/08/2019
+194,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/02/2019,Bristol,UK,Phone,Stage 2,Complaint Upheld,FALSE,7,FALSE,04/03/2019
+590,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/02/2019,Bristol,UK,Social,Stage 2,In Progress,FALSE,0,FALSE,04/03/2019
+689,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/05/2019,Bristol,UK,Chat,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+29,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/05/2019,Manchester,UK,Chat,Stage 1,Acknowledged,FALSE,1,FALSE,01/06/2019
+425,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/05/2019,Manchester,UK,Social,Stage 1,Complaint Upheld,FALSE,0,FALSE,01/06/2019
+821,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/05/2019,Manchester,UK,Web,Stage 1,In Progress,FALSE,0,FALSE,01/06/2019
+161,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Web,Stage 1,Closed,TRUE,1,FALSE,01/06/2019
+557,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/05/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,1,FALSE,01/06/2019
+953,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/05/2019,Nottingham,UK,Letter,Stage 1,Acknowledged,FALSE,5,FALSE,01/06/2019
+304,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/04/2019,London,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,02/05/2019
+700,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/04/2019,London,UK,Social,Ombudsman,Closed,FALSE,1,FALSE,02/05/2019
+172,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/04/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/05/2019
+568,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/04/2019,London,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,02/05/2019
+381,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/09/2019,London,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,02/10/2019
+777,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/09/2019,Birmingham,UK,Phone,Stage 1,Closed,TRUE,7,TRUE,02/10/2019
+249,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/09/2019,London,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+645,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/09/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,8,TRUE,02/10/2019
+117,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,02/10/2019
+513,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,02/10/2019
+909,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/09/2019,Maidenhead,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,02/10/2019
+95,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/11/2019,Bristol,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+392,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/08/2019,London,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+788,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/08/2019,Bristol,UK,Letter,Ombudsman,Decision Pending,FALSE,6,FALSE,01/09/2019
+128,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Letter,Ombudsman,In Progress,FALSE,0,FALSE,01/09/2019
+524,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+920,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/08/2019,Manchester,UK,Social,Ombudsman,Decision Pending,FALSE,10,FALSE,01/09/2019
+260,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/08/2019,Nottingham,UK,Social,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+733,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Victoria Rd Surgery,01/01/2019,Reading,UK,Letter,Stage 1,Complaint Upheld,FALSE,5,TRUE,01/02/2019
+84,Doctors rooms in shambles and not well kept,Facilities,Victoria Rd Surgery,01/12/2019,London,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+480,Doctors rooms in shambles and not well kept,Facilities,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+876,Doctors rooms in shambles and not well kept,Facilities,Victoria Rd Surgery,01/12/2019,Birmingham,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,01/01/2020
+419,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Duff House Surgery,01/11/2019,London,UK,Chat,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+815,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Duff House Surgery,01/11/2019,Bristol,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+155,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Duff House Surgery,01/11/2019,Manchester,UK,Social,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+551,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Duff House Surgery,01/11/2019,Manchester,UK,Web,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+947,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Duff House Surgery,01/11/2019,Manchester,UK,Phone,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+287,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Duff House Surgery,01/11/2019,Nottingham,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+683,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Duff House Surgery,01/11/2019,Nottingham,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+563,Rude Staff members,Staff Member Complaint,Duff House Surgery,01/11/2019,Bristol,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+959,Rude Staff members,Staff Member Complaint,Duff House Surgery,01/11/2019,Bristol,UK,Chat,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+299,Rude Staff members,Staff Member Complaint,Duff House Surgery,01/11/2019,Manchester,UK,Chat,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+695,Rude Staff members,Staff Member Complaint,Duff House Surgery,01/11/2019,Manchester,UK,Social,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+35,Rude Staff members,Staff Member Complaint,Duff House Surgery,01/11/2019,Nottingham,UK,Social,Stage 3,Closed,TRUE,8,TRUE,02/12/2019
+431,Rude Staff members,Staff Member Complaint,Duff House Surgery,01/11/2019,London,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+827,Rude Staff members,Staff Member Complaint,Duff House Surgery,01/11/2019,Nottingham,UK,Phone,Stage 3,Acknowledged,FALSE,4,FALSE,02/12/2019
+635,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Duff House Surgery,01/11/2019,Bristol,UK,Social,Stage 2,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+371,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Duff House Surgery,01/11/2019,Manchester,UK,Web,Stage 3,Closed,TRUE,0,FALSE,02/12/2019
+767,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Duff House Surgery,01/11/2019,Manchester,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+107,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Duff House Surgery,01/11/2019,Nottingham,UK,Phone,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+503,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Duff House Surgery,01/11/2019,London,UK,Letter,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/12/2019
+899,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Duff House Surgery,01/11/2019,Nottingham,UK,Chat,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+743,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Duff House Surgery,01/11/2019,Bristol,UK,Letter,Stage 3,Acknowledged,FALSE,5,FALSE,02/12/2019
+83,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Duff House Surgery,01/07/2019,Manchester,UK,Letter,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+479,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Duff House Surgery,01/11/2019,Manchester,UK,Chat,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+875,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Duff House Surgery,01/11/2019,Manchester,UK,Social,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+215,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Duff House Surgery,01/11/2019,Nottingham,UK,Social,Stage 3,Complaint Upheld,FALSE,0,FALSE,02/12/2019
+611,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Duff House Surgery,01/11/2019,Nottingham,UK,Web,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+671,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Duff House Surgery,01/11/2019,Bristol,UK,Web,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+11,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Duff House Surgery,01/11/2019,Manchester,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+407,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Duff House Surgery,01/07/2019,Manchester,UK,Phone,Stage 3,Acknowledged,FALSE,4,FALSE,01/08/2019
+803,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Duff House Surgery,01/11/2019,Manchester,UK,Letter,Stage 3,Complaint Upheld,FALSE,0,FALSE,02/12/2019
+143,Experiencing a change in condition that was overlooked and not treated,Change in Condition,Duff House Surgery,01/11/2019,Nottingham,UK,Letter,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+539,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Duff House Surgery,01/11/2019,London,UK,Chat,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+935,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Duff House Surgery,01/11/2019,Nottingham,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+455,Receiving inadequate discharge instructions,Discharge Instructions,Duff House Surgery,01/11/2019,Bristol,UK,Social,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+851,Receiving inadequate discharge instructions,Discharge Instructions,Duff House Surgery,01/11/2019,Bristol,UK,Web,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+191,Receiving inadequate discharge instructions,Discharge Instructions,Duff House Surgery,01/11/2019,Manchester,UK,Web,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+587,Receiving inadequate discharge instructions,Discharge Instructions,Duff House Surgery,01/11/2019,Manchester,UK,Phone,Stage 3,Complaint Rejected,TRUE,3,TRUE,02/12/2019
+983,Receiving inadequate discharge instructions,Discharge Instructions,Duff House Surgery,01/11/2019,Manchester,UK,Letter,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+323,Receiving inadequate discharge instructions,Discharge Instructions,Duff House Surgery,01/11/2019,Nottingham,UK,Letter,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+719,Receiving inadequate discharge instructions,Discharge Instructions,Duff House Surgery,01/11/2019,Nottingham,UK,Chat,Stage 3,Complaint Upheld,FALSE,0,FALSE,02/12/2019
+707,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/11/2019,Bristol,UK,Phone,Stage 3,Closed,TRUE,0,FALSE,02/12/2019
+47,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/11/2019,Manchester,UK,Phone,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+443,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/07/2019,Manchester,UK,Letter,Stage 3,In Progress,FALSE,1,FALSE,01/08/2019
+839,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/11/2019,Manchester,UK,Phone,Stage 3,Complaint Rejected,TRUE,4,TRUE,02/12/2019
+179,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/11/2019,Nottingham,UK,Chat,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+575,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/11/2019,London,UK,Social,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+971,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/07/2019,Nottingham,UK,Web,Stage 3,Complaint Upheld,FALSE,0,FALSE,01/08/2019
+527,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/11/2019,Bristol,UK,Phone,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+923,Home care was not provided to an elderly person,Health and social care services,Duff House Surgery,01/11/2019,Bristol,UK,Letter,Stage 3,Complaint Rejected,TRUE,1,TRUE,02/12/2019
+263,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,London,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+659,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Manchester,UK,Chat,Stage 3,Acknowledged,FALSE,0,FALSE,02/12/2019
+395,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/07/2019,London,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,01/08/2019
+791,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Nottingham,UK,Web,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+383,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,1,FALSE,02/12/2019
+779,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Bristol,UK,Chat,Stage 3,In Progress,FALSE,1,FALSE,02/12/2019
+119,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Manchester,UK,Chat,Stage 3,Closed,TRUE,1,FALSE,02/12/2019
+515,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Manchester,UK,Social,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+911,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Manchester,UK,Web,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+251,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Nottingham,UK,Web,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+647,I was billed incorrectly for the treatment I received,Billing,Duff House Surgery,01/11/2019,Nottingham,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+599,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Duff House Surgery,01/11/2019,Bristol,UK,Chat,Stage 2,Decision Pending,FALSE,1,FALSE,02/12/2019
+995,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Duff House Surgery,01/11/2019,Bristol,UK,Social,Stage 3,Acknowledged,FALSE,0,FALSE,02/12/2019
+335,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Duff House Surgery,01/11/2019,Manchester,UK,Social,Stage 3,Complaint Rejected,TRUE,1,TRUE,02/12/2019
+731,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Duff House Surgery,01/11/2019,Manchester,UK,Web,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+71,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Duff House Surgery,01/07/2019,Nottingham,UK,Web,Stage 3,Acknowledged,FALSE,7,FALSE,01/08/2019
+467,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Duff House Surgery,01/07/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,1,FALSE,01/08/2019
+863,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Duff House Surgery,01/11/2019,Nottingham,UK,Phone,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+491,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Duff House Surgery,01/11/2019,Bristol,UK,Web,Stage 3,Acknowledged,FALSE,1,FALSE,02/12/2019
+887,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Duff House Surgery,01/11/2019,Bristol,UK,Phone,Stage 3,Decision Pending,FALSE,4,FALSE,02/12/2019
+227,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Duff House Surgery,01/11/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,0,FALSE,02/12/2019
+623,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Duff House Surgery,01/11/2019,Manchester,UK,Letter,Stage 3,Decision Pending,FALSE,1,FALSE,02/12/2019
+359,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Duff House Surgery,01/11/2019,London,UK,Chat,Stage 3,In Progress,FALSE,0,FALSE,02/12/2019
+755,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Duff House Surgery,01/11/2019,Nottingham,UK,Social,Stage 3,Complaint Rejected,TRUE,2,TRUE,02/12/2019
+584,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Oceanic Health Center,01/08/2019,London,UK,Chat,Ombudsman,Decision Pending,FALSE,1,FALSE,01/09/2019
+980,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Oceanic Health Center,01/08/2019,Nottingham,UK,Social,Ombudsman,Closed,FALSE,0,FALSE,01/09/2019
+728,Rude Staff members,Staff Member Complaint,Oceanic Health Center,01/08/2019,Nottingham,UK,Letter,Ombudsman,Closed,FALSE,1,FALSE,01/09/2019
+800,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Oceanic Health Center,01/08/2019,Nottingham,UK,Social,Ombudsman,In Progress,FALSE,1,FALSE,01/09/2019
+908,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Oceanic Health Center,01/08/2019,Nottingham,UK,Letter,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+836,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Oceanic Health Center,01/08/2019,Nottingham,UK,Web,Ombudsman,Decision Pending,FALSE,2,FALSE,01/09/2019
+620,Receiving inadequate discharge instructions,Discharge Instructions,Oceanic Health Center,01/08/2019,Nottingham,UK,Social,Stage 2,Decision Pending,FALSE,1,FALSE,01/09/2019
+872,Home care was not provided to an elderly person,Health and social care services,Oceanic Health Center,01/07/2019,Nottingham,UK,Phone,Ombudsman,Decision Pending,FALSE,3,FALSE,01/08/2019
+692,I was billed incorrectly for the treatment I received,Billing,Oceanic Health Center,01/08/2019,Nottingham,UK,Phone,Ombudsman,Complaint Rejected,TRUE,3,TRUE,01/09/2019
+944,I was billed incorrectly for the treatment I received,Billing,Oceanic Health Center,01/08/2019,Nottingham,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/09/2019
+764,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Oceanic Health Center,01/08/2019,Nottingham,UK,Phone,Ombudsman,Acknowledged,FALSE,1,FALSE,01/09/2019
+656,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Oceanic Health Center,01/08/2019,Nottingham,UK,Web,Ombudsman,Complaint Upheld,FALSE,1,FALSE,01/09/2019
+727,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Complaint Rejected,TRUE,4,TRUE,01/08/2019
+199,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+595,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Closed,TRUE,8,TRUE,01/08/2019
+991,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+67,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Skynet Practice,01/07/2019,Reading,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+463,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Skynet Practice,01/07/2019,Reading,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+859,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Skynet Practice,01/07/2019,Reading,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+79,Rude Staff members,Staff Member Complaint,Skynet Practice,01/07/2019,Leeds,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/08/2019
+475,Rude Staff members,Staff Member Complaint,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+871,Rude Staff members,Staff Member Complaint,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+343,Rude Staff members,Staff Member Complaint,Skynet Practice,01/07/2019,London,UK,Letter,Stage 2,Closed,TRUE,5,TRUE,01/08/2019
+739,Rude Staff members,Staff Member Complaint,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+211,Rude Staff members,Staff Member Complaint,Skynet Practice,01/07/2019,Reading,UK,Web,Stage 3,Acknowledged,FALSE,1,TRUE,01/08/2019
+607,Rude Staff members,Staff Member Complaint,Skynet Practice,01/07/2019,Reading,UK,Phone,Stage 2,Complaint Upheld,FALSE,4,TRUE,01/08/2019
+151,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+547,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Acknowledged,FALSE,4,TRUE,01/08/2019
+943,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/08/2019
+19,Receiving the wrong medication in a hospital or skilled nursing facility (SNF),Incorrect Medication,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+415,Experiencing a delay in service,Delay in Service,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/08/2019
+811,Experiencing a delay in service,Delay in Service,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+283,Experiencing a delay in service,Delay in Service,Skynet Practice,01/07/2019,Reading,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+679,Experiencing a delay in service,Delay in Service,Skynet Practice,01/07/2019,Reading,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+259,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Closed,TRUE,8,TRUE,01/08/2019
+655,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+127,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Acknowledged,FALSE,4,TRUE,01/08/2019
+523,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+919,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/08/2019
+391,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Skynet Practice,01/07/2019,Reading,UK,Web,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+787,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Skynet Practice,01/07/2019,Reading,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+187,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,4,TRUE,01/08/2019
+583,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,In Progress,FALSE,7,TRUE,01/08/2019
+979,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+55,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+451,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+847,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/08/2019
+319,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,Reading,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+715,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Skynet Practice,01/07/2019,Reading,UK,Phone,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+367,Receiving inadequate discharge instructions,Discharge Instructions,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+763,Receiving inadequate discharge instructions,Discharge Instructions,Skynet Practice,01/07/2019,London,UK,Letter,Stage 3,Closed,TRUE,5,TRUE,01/08/2019
+235,Receiving inadequate discharge instructions,Discharge Instructions,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+631,Receiving inadequate discharge instructions,Discharge Instructions,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Acknowledged,FALSE,1,TRUE,01/08/2019
+103,Receiving inadequate discharge instructions,Discharge Instructions,Skynet Practice,01/07/2019,Reading,UK,Letter,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/08/2019
+499,Receiving inadequate discharge instructions,Discharge Instructions,Skynet Practice,01/07/2019,Reading,UK,Chat,Stage 3,In Progress,FALSE,7,TRUE,01/08/2019
+895,Receiving inadequate discharge instructions,Discharge Instructions,Skynet Practice,01/07/2019,Reading,UK,Social,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+223,Home care was not provided to an elderly person,Health and social care services,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+619,Home care was not provided to an elderly person,Health and social care services,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+91,Home care was not provided to an elderly person,Health and social care services,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Closed,TRUE,7,TRUE,01/08/2019
+487,Home care was not provided to an elderly person,Health and social care services,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+883,Home care was not provided to an elderly person,Health and social care services,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Acknowledged,FALSE,7,TRUE,01/08/2019
+355,Home care was not provided to an elderly person,Health and social care services,Skynet Practice,01/07/2019,Reading,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+751,Home care was not provided to an elderly person,Health and social care services,Skynet Practice,01/07/2019,Reading,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/08/2019
+43,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,Leeds,UK,Letter,Stage 3,Acknowledged,FALSE,5,TRUE,01/08/2019
+439,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+835,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,In Progress,FALSE,7,TRUE,01/08/2019
+307,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+703,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Letter,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+175,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,Reading,UK,Social,Stage 3,Closed,TRUE,7,TRUE,01/08/2019
+571,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,Reading,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/08/2019
+967,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,Reading,UK,Phone,Stage 3,Acknowledged,FALSE,4,TRUE,01/08/2019
+691,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/08/2019
+163,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Letter,Stage 3,In Progress,FALSE,5,TRUE,01/08/2019
+559,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/08/2019
+955,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+31,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,Reading,UK,Web,Stage 3,Decision Pending,FALSE,7,TRUE,01/08/2019
+427,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,Reading,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/08/2019
+823,I was billed incorrectly for the treatment I received,Billing,Skynet Practice,01/07/2019,Reading,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+115,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+511,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Closed,TRUE,1,TRUE,01/08/2019
+907,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/08/2019
+379,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+775,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Skynet Practice,01/07/2019,London,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+247,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Skynet Practice,01/07/2019,Reading,UK,Phone,Stage 3,In Progress,FALSE,4,TRUE,01/08/2019
+643,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Skynet Practice,01/07/2019,Reading,UK,Letter,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+7,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,Leeds,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/08/2019
+403,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,London,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+799,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,London,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/08/2019
+271,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,London,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/08/2019
+667,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,London,UK,Phone,Stage 3,In Progress,FALSE,4,TRUE,01/08/2019
+139,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,Reading,UK,Chat,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+535,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,Reading,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/08/2019
+931,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Skynet Practice,01/07/2019,Reading,UK,Web,Stage 3,Closed,TRUE,1,TRUE,01/08/2019
+34,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,Leeds,UK,Chat,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/11/2019
+430,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+826,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+298,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+694,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,London,UK,Chat,Stage 2,Acknowledged,FALSE,7,TRUE,01/11/2019
+166,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,Reading,UK,Web,Stage 2,Complaint Upheld,FALSE,2,TRUE,01/11/2019
+562,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,01/11/2019
+958,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Stark Surgery,01/10/2019,Reading,UK,Letter,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/11/2019
+178,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+574,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,London,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,01/11/2019
+970,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+46,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+442,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,01/11/2019
+838,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,London,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,01/11/2019
+310,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,Reading,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,01/11/2019
+706,Rude Staff members,Staff Member Complaint,Stark Surgery,01/10/2019,Reading,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+250,Experiencing a delay in service,Delay in Service,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Complaint Upheld,FALSE,10,TRUE,01/11/2019
+646,Experiencing a delay in service,Delay in Service,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,In Progress,FALSE,2,TRUE,01/11/2019
+118,Experiencing a delay in service,Delay in Service,Stark Surgery,01/10/2019,London,UK,Letter,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+514,Experiencing a delay in service,Delay in Service,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+910,Experiencing a delay in service,Delay in Service,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Closed,TRUE,10,TRUE,01/11/2019
+382,Experiencing a delay in service,Delay in Service,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+778,Experiencing a delay in service,Delay in Service,Stark Surgery,01/10/2019,Reading,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,01/11/2019
+358,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Stark Surgery,01/10/2019,London,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,01/11/2019
+754,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/11/2019
+226,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,In Progress,FALSE,2,TRUE,01/11/2019
+622,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+94,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Stark Surgery,01/10/2019,Reading,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+490,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Stark Surgery,01/10/2019,Reading,UK,Social,Stage 2,Closed,TRUE,10,TRUE,01/11/2019
+886,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Stark Surgery,01/10/2019,Reading,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+286,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/11/2019
+682,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+154,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Stark Surgery,01/10/2019,London,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,01/11/2019
+550,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+946,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,01/11/2019
+22,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,01/11/2019
+418,"Poor client service, staff did not respond in what I consider to be an appropriate timescale.",Standard of service,Stark Surgery,01/07/2019,Reading,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,01/08/2019
+814,Receiving a misdiagnosis,Misdiagnosis,Stark Surgery,01/10/2019,Reading,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,01/11/2019
+70,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,Leeds,UK,Phone,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+466,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+862,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,01/11/2019
+334,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,London,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/11/2019
+730,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,01/11/2019
+202,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+598,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,Reading,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+994,Receiving inadequate discharge instructions,Discharge Instructions,Stark Surgery,01/10/2019,Reading,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,01/11/2019
+322,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,01/11/2019
+718,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/10/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+190,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Acknowledged,FALSE,10,TRUE,01/11/2019
+586,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+982,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,01/11/2019
+58,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/10/2019,Reading,UK,Letter,Stage 2,In Progress,FALSE,7,TRUE,01/11/2019
+454,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/07/2019,Reading,UK,Chat,Stage 2,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+850,Home care was not provided to an elderly person,Health and social care services,Stark Surgery,01/10/2019,Reading,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+142,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/07/2019,London,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,01/08/2019
+538,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/11/2019
+934,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,London,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+10,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/07/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/08/2019
+406,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Closed,TRUE,2,TRUE,01/11/2019
+802,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+274,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,Acknowledged,FALSE,7,TRUE,01/11/2019
+670,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,Complaint Upheld,FALSE,10,TRUE,01/11/2019
+394,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,London,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,01/11/2019
+790,I was billed incorrectly for the treatment I received,Billing,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+262,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+658,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,01/11/2019
+130,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Stark Surgery,01/10/2019,Reading,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,01/11/2019
+526,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Stark Surgery,01/07/2019,Reading,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,01/08/2019
+922,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,01/11/2019
+214,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Stark Surgery,01/10/2019,London,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+610,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Acknowledged,FALSE,10,TRUE,01/11/2019
+82,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+478,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Stark Surgery,01/07/2019,London,UK,Letter,Stage 2,In Progress,FALSE,7,TRUE,01/08/2019
+874,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Complaint Rejected,TRUE,1,TRUE,01/11/2019
+346,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Stark Surgery,01/07/2019,Reading,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/08/2019
+742,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Stark Surgery,01/10/2019,Reading,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/11/2019
+106,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Acknowledged,FALSE,7,TRUE,01/11/2019
+502,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,01/11/2019
+898,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Stark Surgery,01/10/2019,London,UK,Phone,Stage 2,In Progress,FALSE,6,TRUE,01/11/2019
+370,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Stark Surgery,01/10/2019,London,UK,Social,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/11/2019
+766,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Stark Surgery,01/10/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/11/2019
+238,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Stark Surgery,01/10/2019,Reading,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/11/2019
+634,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Stark Surgery,01/10/2019,Reading,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,01/11/2019
+133,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Closed,TRUE,5,TRUE,01/02/2019
+529,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Umbrella Corporation,01/01/2019,London,UK,Chat,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+925,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Umbrella Corporation,01/07/2019,London,UK,Social,Stage 1,Acknowledged,FALSE,7,TRUE,01/08/2019
+1,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/02/2019
+397,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Umbrella Corporation,01/07/2019,London,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,01/08/2019
+793,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,01/02/2019
+265,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Umbrella Corporation,01/01/2019,Reading,UK,Social,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/02/2019
+277,Rude Staff members,Staff Member Complaint,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+673,Rude Staff members,Staff Member Complaint,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,01/02/2019
+145,Rude Staff members,Staff Member Complaint,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,Complaint Upheld,FALSE,2,TRUE,01/02/2019
+541,Rude Staff members,Staff Member Complaint,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,In Progress,FALSE,1,TRUE,01/02/2019
+937,Rude Staff members,Staff Member Complaint,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/02/2019
+13,Rude Staff members,Staff Member Complaint,Umbrella Corporation,01/07/2019,Reading,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/08/2019
+409,Rude Staff members,Staff Member Complaint,Umbrella Corporation,01/07/2019,Reading,UK,Chat,Stage 2,Decision Pending,FALSE,8,TRUE,01/08/2019
+349,Experiencing a delay in service,Delay in Service,Umbrella Corporation,01/01/2019,London,UK,Chat,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/02/2019
+745,Experiencing a delay in service,Delay in Service,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+217,Experiencing a delay in service,Delay in Service,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,4,TRUE,01/02/2019
+613,Experiencing a delay in service,Delay in Service,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+85,Experiencing a delay in service,Delay in Service,Umbrella Corporation,01/01/2019,Reading,UK,Social,Stage 1,Acknowledged,FALSE,7,TRUE,01/02/2019
+61,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Umbrella Corporation,01/01/2019,Leeds,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,01/02/2019
+457,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,In Progress,FALSE,4,TRUE,01/02/2019
+853,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/02/2019
+325,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+721,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,Closed,TRUE,7,TRUE,01/02/2019
+193,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Umbrella Corporation,01/01/2019,Reading,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+385,Receiving a misdiagnosis,Misdiagnosis,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,Closed,TRUE,5,TRUE,01/02/2019
+781,Receiving a misdiagnosis,Misdiagnosis,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,01/02/2019
+253,Receiving a misdiagnosis,Misdiagnosis,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,Acknowledged,FALSE,5,TRUE,01/02/2019
+649,Receiving a misdiagnosis,Misdiagnosis,Umbrella Corporation,01/01/2019,London,UK,Chat,Stage 1,Complaint Upheld,FALSE,8,TRUE,01/02/2019
+121,Receiving a misdiagnosis,Misdiagnosis,Umbrella Corporation,01/01/2019,Reading,UK,Phone,Stage 1,In Progress,FALSE,1,TRUE,01/02/2019
+169,Receiving inadequate discharge instructions,Discharge Instructions,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Acknowledged,FALSE,8,TRUE,01/02/2019
+565,Receiving inadequate discharge instructions,Discharge Instructions,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,Complaint Upheld,FALSE,8,TRUE,01/02/2019
+961,Receiving inadequate discharge instructions,Discharge Instructions,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 2,In Progress,FALSE,1,TRUE,01/02/2019
+37,Receiving inadequate discharge instructions,Discharge Instructions,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,In Progress,FALSE,4,TRUE,01/02/2019
+433,Receiving inadequate discharge instructions,Discharge Instructions,Umbrella Corporation,01/07/2019,London,UK,Letter,Stage 1,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+829,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+301,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,Reading,UK,Web,Stage 1,Closed,TRUE,1,TRUE,01/02/2019
+25,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,Leeds,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+421,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,Acknowledged,FALSE,1,TRUE,01/02/2019
+817,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Complaint Upheld,FALSE,4,TRUE,01/02/2019
+289,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,London,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,01/02/2019
+685,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+157,Home care was not provided to an elderly person,Health and social care services,Umbrella Corporation,01/01/2019,Reading,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+241,I was billed incorrectly for the treatment I received,Billing,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,1,TRUE,01/02/2019
+637,I was billed incorrectly for the treatment I received,Billing,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Closed,TRUE,4,TRUE,01/02/2019
+109,I was billed incorrectly for the treatment I received,Billing,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,8,TRUE,01/02/2019
+505,I was billed incorrectly for the treatment I received,Billing,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,Acknowledged,FALSE,8,TRUE,01/02/2019
+901,I was billed incorrectly for the treatment I received,Billing,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,Complaint Upheld,FALSE,1,TRUE,01/02/2019
+373,I was billed incorrectly for the treatment I received,Billing,Umbrella Corporation,01/01/2019,Reading,UK,Letter,Stage 1,In Progress,FALSE,5,TRUE,01/02/2019
+97,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Complaint Rejected,TRUE,2,TRUE,01/02/2019
+493,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,Decision Pending,FALSE,7,TRUE,01/02/2019
+889,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Umbrella Corporation,01/01/2019,London,UK,Chat,Stage 1,Closed,TRUE,8,TRUE,01/02/2019
+361,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,Decision Pending,FALSE,1,TRUE,01/02/2019
+757,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,7,TRUE,01/02/2019
+229,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Umbrella Corporation,01/01/2019,Reading,UK,Chat,Stage 1,Complaint Upheld,FALSE,8,TRUE,01/02/2019
+313,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Complaint Upheld,FALSE,5,TRUE,01/02/2019
+709,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Umbrella Corporation,01/01/2019,London,UK,Chat,Stage 1,In Progress,FALSE,8,TRUE,01/02/2019
+181,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Complaint Rejected,TRUE,0,TRUE,01/02/2019
+577,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Umbrella Corporation,01/01/2019,London,UK,Phone,Stage 1,Decision Pending,FALSE,4,TRUE,01/02/2019
+973,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,Closed,TRUE,3,TRUE,01/02/2019
+49,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Umbrella Corporation,01/01/2019,Reading,UK,Phone,Stage 1,Closed,TRUE,8,TRUE,01/02/2019
+205,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,In Progress,FALSE,8,TRUE,01/02/2019
+601,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Umbrella Corporation,01/01/2019,London,UK,Web,Stage 1,Complaint Rejected,TRUE,3,TRUE,01/02/2019
+997,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Umbrella Corporation,01/07/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,7,TRUE,01/08/2019
+73,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Umbrella Corporation,01/01/2019,London,UK,Letter,Stage 1,Decision Pending,FALSE,5,TRUE,01/02/2019
+469,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Umbrella Corporation,01/01/2019,London,UK,Chat,Stage 1,Closed,TRUE,7,TRUE,01/02/2019
+865,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Umbrella Corporation,01/01/2019,London,UK,Social,Stage 1,Decision Pending,FALSE,8,TRUE,01/02/2019
+337,Resources Unavailable - Patient waited a long time to see someone,Resourceing,Umbrella Corporation,01/01/2019,Reading,UK,Phone,Stage 1,Acknowledged,FALSE,4,TRUE,01/02/2019
+276,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/12/2019,London,UK,Web,Ombudsman,Decision Pending,FALSE,2,TRUE,01/01/2020
+672,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/12/2019,London,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,01/01/2020
+144,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/12/2019,Maidenhead,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+540,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/12/2019,Maidenhead,UK,Social,Ombudsman,Acknowledged,FALSE,0,TRUE,01/01/2020
+936,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/12/2019,Maidenhead,UK,Web,Ombudsman,Complaint Upheld,FALSE,2,TRUE,01/01/2020
+210,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/06/2019,London,UK,Social,Stage 2,Closed,TRUE,10,TRUE,02/07/2019
+606,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+78,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/06/2019,London,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,02/07/2019
+474,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/07/2019,London,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/08/2019
+870,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/06/2019,Liverpool,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,02/07/2019
+375,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/03/2019,London,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+771,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/03/2019,London,UK,Phone,Stage 3,Acknowledged,FALSE,1,TRUE,01/04/2019
+243,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/03/2019,Maidenhead,UK,Letter,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/04/2019
+639,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wayne Health Center,01/03/2019,Maidenhead,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+420,Rude Staff members,Staff Member Complaint,Wayne Health Center,01/07/2019,London,UK,Social,Ombudsman,Closed,FALSE,0,FALSE,01/08/2019
+816,Rude Staff members,Staff Member Complaint,Wayne Health Center,01/12/2019,London,UK,Web,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+288,Rude Staff members,Staff Member Complaint,Wayne Health Center,01/07/2019,Maidenhead,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,01/08/2019
+684,Rude Staff members,Staff Member Complaint,Wayne Health Center,01/12/2019,Maidenhead,UK,Chat,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/01/2020
+354,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/06/2019,London,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+750,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Acknowledged,FALSE,10,TRUE,02/07/2019
+222,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,02/07/2019
+618,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/06/2019,London,UK,Letter,Stage 2,In Progress,FALSE,6,TRUE,02/07/2019
+90,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/06/2019,Maidenhead,UK,Social,Stage 2,Complaint Rejected,TRUE,2,TRUE,02/07/2019
+519,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/03/2019,London,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+915,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/03/2019,Liverpool,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/04/2019
+387,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/03/2019,Maidenhead,UK,Phone,Stage 3,In Progress,FALSE,4,TRUE,01/04/2019
+783,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wayne Health Center,01/03/2019,Maidenhead,UK,Letter,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/04/2019
+492,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/07/2019,London,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,01/08/2019
+888,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/12/2019,Liverpool,UK,Letter,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+360,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/12/2019,Maidenhead,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+756,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/12/2019,Maidenhead,UK,Web,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+30,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,In Progress,FALSE,10,TRUE,02/07/2019
+426,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,02/07/2019
+822,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+294,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/06/2019,London,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,02/07/2019
+690,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/06/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,02/07/2019
+162,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/06/2019,Maidenhead,UK,Phone,Stage 2,Acknowledged,FALSE,7,TRUE,02/07/2019
+195,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/03/2019,London,UK,Social,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/04/2019
+591,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/03/2019,London,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+987,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/03/2019,Liverpool,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/04/2019
+63,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/03/2019,Maidenhead,UK,Letter,Stage 3,Closed,TRUE,5,TRUE,01/04/2019
+459,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/03/2019,Maidenhead,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+855,Experiencing a delay in service,Delay in Service,Wayne Health Center,01/03/2019,Maidenhead,UK,Social,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+600,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/12/2019,London,UK,Social,Ombudsman,Complaint Upheld,FALSE,10,TRUE,01/01/2020
+996,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/12/2019,Liverpool,UK,Phone,Ombudsman,In Progress,FALSE,2,TRUE,01/01/2020
+72,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/12/2019,Maidenhead,UK,Phone,Ombudsman,In Progress,FALSE,3,TRUE,01/01/2020
+468,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/12/2019,Maidenhead,UK,Letter,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/01/2020
+864,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/12/2019,Maidenhead,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+138,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/06/2019,London,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,02/07/2019
+534,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/06/2019,Birmingham,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,02/07/2019
+930,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/07/2019,Birmingham,UK,Social,Stage 2,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+6,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/06/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+402,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/07/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,01/08/2019
+798,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,Closed,TRUE,6,TRUE,02/07/2019
+270,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/06/2019,Maidenhead,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,02/07/2019
+303,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/03/2019,London,UK,Letter,Stage 3,In Progress,FALSE,5,TRUE,01/04/2019
+699,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/03/2019,London,UK,Chat,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/04/2019
+171,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/03/2019,Maidenhead,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+567,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/03/2019,Maidenhead,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/04/2019
+963,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wayne Health Center,01/03/2019,Maidenhead,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+528,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/12/2019,London,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+924,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/12/2019,Liverpool,UK,Phone,Ombudsman,Closed,FALSE,1,FALSE,01/01/2020
+396,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/12/2019,Maidenhead,UK,Web,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+792,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/12/2019,Maidenhead,UK,Phone,Ombudsman,Acknowledged,FALSE,3,TRUE,01/01/2020
+66,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/06/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+462,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/07/2019
+858,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/06/2019,Birmingham,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+330,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/06/2019,London,UK,Social,Stage 2,Acknowledged,FALSE,10,TRUE,02/07/2019
+726,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/06/2019,London,UK,Web,Stage 2,Complaint Upheld,FALSE,2,TRUE,02/07/2019
+198,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/07/2019,London,UK,Letter,Stage 2,In Progress,FALSE,6,TRUE,01/08/2019
+231,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/03/2019,London,UK,Web,Stage 3,Closed,TRUE,1,TRUE,01/04/2019
+627,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/03/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/04/2019
+99,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/03/2019,Maidenhead,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+495,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/07/2019,Maidenhead,UK,Social,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+891,Receiving a misdiagnosis,Misdiagnosis,Wayne Health Center,01/03/2019,Maidenhead,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/04/2019
+312,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,London,UK,Phone,Ombudsman,Decision Pending,FALSE,3,TRUE,01/01/2020
+708,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,London,UK,Letter,Ombudsman,Acknowledged,FALSE,6,TRUE,01/01/2020
+180,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,London,UK,Social,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/01/2020
+576,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,Maidenhead,UK,Web,Ombudsman,In Progress,FALSE,2,TRUE,01/01/2020
+972,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/07/2019,Maidenhead,UK,Phone,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+246,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,London,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,02/07/2019
+642,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Complaint Upheld,FALSE,3,TRUE,02/07/2019
+114,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,London,UK,Chat,Stage 2,In Progress,FALSE,7,TRUE,02/07/2019
+510,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/07/2019,London,UK,Social,Stage 2,Complaint Rejected,TRUE,3,TRUE,01/08/2019
+906,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,Liverpool,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+411,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,London,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/04/2019
+807,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+279,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,Maidenhead,UK,Chat,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/04/2019
+675,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,Maidenhead,UK,Phone,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+564,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,London,UK,Chat,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+960,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,Liverpool,UK,Social,Ombudsman,Acknowledged,FALSE,10,TRUE,01/01/2020
+36,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,Maidenhead,UK,Web,Stage 2,Acknowledged,FALSE,2,TRUE,01/01/2020
+432,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,Maidenhead,UK,Phone,Ombudsman,Complaint Upheld,FALSE,3,TRUE,01/01/2020
+828,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/12/2019,Maidenhead,UK,Letter,Ombudsman,In Progress,FALSE,6,TRUE,01/01/2020
+102,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+498,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/07/2019,Birmingham,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,01/08/2019
+894,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Complaint Upheld,FALSE,7,TRUE,02/07/2019
+366,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/07/2019,London,UK,Web,Stage 2,In Progress,FALSE,2,TRUE,01/08/2019
+762,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,Complaint Rejected,TRUE,1,TRUE,02/07/2019
+234,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/06/2019,Maidenhead,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+267,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,London,UK,Phone,Stage 2,Acknowledged,FALSE,4,TRUE,01/04/2019
+663,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,5,TRUE,01/04/2019
+135,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,Maidenhead,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+531,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,Maidenhead,UK,Web,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/04/2019
+927,Home care was not provided to an elderly person,Health and social care services,Wayne Health Center,01/03/2019,Maidenhead,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+384,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/07/2019,London,UK,Chat,Ombudsman,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+780,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/12/2019,London,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+252,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/12/2019,Maidenhead,UK,Phone,Ombudsman,Closed,FALSE,0,FALSE,01/01/2020
+648,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/12/2019,Maidenhead,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+318,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/06/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+714,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/06/2019,Birmingham,UK,Chat,Stage 2,Closed,TRUE,7,TRUE,02/07/2019
+186,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/06/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+582,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,Acknowledged,FALSE,3,TRUE,02/07/2019
+978,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/06/2019,Liverpool,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,02/07/2019
+54,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/06/2019,Maidenhead,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,02/07/2019
+483,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/03/2019,London,UK,Letter,Stage 3,Closed,TRUE,5,TRUE,01/04/2019
+879,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/03/2019,Liverpool,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+351,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/03/2019,Maidenhead,UK,Web,Stage 3,Acknowledged,FALSE,7,TRUE,01/04/2019
+747,I was billed incorrectly for the treatment I received,Billing,Wayne Health Center,01/03/2019,Maidenhead,UK,Phone,Stage 3,Complaint Upheld,FALSE,4,TRUE,01/04/2019
+636,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/12/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/01/2020
+108,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/12/2019,Maidenhead,UK,Letter,Ombudsman,Decision Pending,FALSE,6,TRUE,01/01/2020
+504,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/07/2019,Maidenhead,UK,Chat,Ombudsman,Closed,FALSE,1,FALSE,01/08/2019
+900,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/12/2019,Maidenhead,UK,Social,Ombudsman,Decision Pending,FALSE,10,TRUE,01/01/2020
+174,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/06/2019,London,UK,Chat,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/07/2019
+570,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/06/2019,Birmingham,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+966,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/06/2019,Birmingham,UK,Phone,Stage 2,Closed,TRUE,2,TRUE,02/07/2019
+42,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/07/2019
+438,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/06/2019,London,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+834,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/06/2019,Liverpool,UK,Chat,Stage 2,Acknowledged,FALSE,7,TRUE,02/07/2019
+339,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/03/2019,London,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+735,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/03/2019,London,UK,Social,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+207,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/03/2019,Maidenhead,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+603,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/03/2019,Maidenhead,UK,Letter,Stage 3,Acknowledged,FALSE,5,TRUE,01/04/2019
+999,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wayne Health Center,01/03/2019,Maidenhead,UK,Chat,Stage 2,Complaint Upheld,FALSE,7,TRUE,01/04/2019
+456,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/12/2019,London,UK,Web,Ombudsman,Acknowledged,FALSE,2,TRUE,01/01/2020
+852,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/12/2019,Liverpool,UK,Phone,Ombudsman,Complaint Upheld,FALSE,7,TRUE,01/01/2020
+324,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/12/2019,Maidenhead,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+720,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/12/2019,Maidenhead,UK,Social,Ombudsman,Complaint Rejected,TRUE,1,TRUE,01/01/2020
+390,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/06/2019,London,UK,Social,Stage 2,Complaint Upheld,FALSE,10,TRUE,02/07/2019
+786,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/06/2019,Birmingham,UK,Web,Stage 2,In Progress,FALSE,2,TRUE,02/07/2019
+258,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/06/2019,London,UK,Letter,Stage 2,Complaint Rejected,TRUE,0,TRUE,02/07/2019
+654,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/06/2019,London,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+126,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/07/2019,Maidenhead,UK,Web,Stage 2,Closed,TRUE,2,TRUE,01/08/2019
+555,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/03/2019,London,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+951,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/07/2019,Liverpool,UK,Web,Stage 2,Complaint Rejected,TRUE,2,TRUE,01/08/2019
+27,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/07/2019,Maidenhead,UK,Phone,Stage 3,Complaint Rejected,TRUE,0,TRUE,01/08/2019
+423,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/07/2019,Maidenhead,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/08/2019
+819,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wayne Health Center,01/03/2019,Maidenhead,UK,Chat,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+348,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/12/2019,London,UK,Letter,Ombudsman,Complaint Upheld,FALSE,6,TRUE,01/01/2020
+744,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/12/2019,London,UK,Chat,Ombudsman,In Progress,FALSE,7,TRUE,01/01/2020
+216,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/12/2019,Maidenhead,UK,Web,Ombudsman,Complaint Rejected,TRUE,3,TRUE,01/01/2020
+612,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/12/2019,Maidenhead,UK,Phone,Ombudsman,Decision Pending,FALSE,7,TRUE,01/01/2020
+282,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/06/2019,London,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,02/07/2019
+678,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/06/2019,Birmingham,UK,Letter,Stage 2,Complaint Rejected,TRUE,1,TRUE,02/07/2019
+150,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/06/2019,London,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+546,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/06/2019,London,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+942,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/06/2019,Liverpool,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+18,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/06/2019,Maidenhead,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+447,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/03/2019,London,UK,Phone,Stage 3,Complaint Rejected,TRUE,2,TRUE,01/04/2019
+843,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/03/2019,Liverpool,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+315,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/03/2019,Maidenhead,UK,Social,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+711,Doctors rooms in shambles and not well kept,Facilities,Wayne Health Center,01/03/2019,Maidenhead,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+342,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Weyland Practice,01/06/2019,Maidenhead,UK,Phone,Stage 2,Complaint Rejected,TRUE,3,TRUE,02/07/2019
+738,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Weyland Practice,01/06/2019,Maidenhead,UK,Letter,Stage 2,Decision Pending,FALSE,6,TRUE,02/07/2019
+486,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Weyland Practice,01/07/2019,Maidenhead,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,01/08/2019
+882,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Weyland Practice,01/06/2019,Maidenhead,UK,Phone,Stage 2,Closed,TRUE,3,TRUE,02/07/2019
+558,Experiencing a delay in service,Delay in Service,Weyland Practice,01/06/2019,Maidenhead,UK,Letter,Stage 2,Complaint Upheld,FALSE,6,TRUE,02/07/2019
+954,Experiencing a delay in service,Delay in Service,Weyland Practice,01/06/2019,Maidenhead,UK,Phone,Stage 2,In Progress,FALSE,7,TRUE,02/07/2019
+666,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Weyland Practice,01/06/2019,Maidenhead,UK,Phone,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+594,Receiving a misdiagnosis,Misdiagnosis,Weyland Practice,01/06/2019,Maidenhead,UK,Chat,Stage 2,Complaint Rejected,TRUE,4,TRUE,02/07/2019
+990,Receiving a misdiagnosis,Misdiagnosis,Weyland Practice,01/06/2019,Maidenhead,UK,Social,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+378,Home care was not provided to an elderly person,Health and social care services,Weyland Practice,01/06/2019,Maidenhead,UK,Letter,Stage 2,Closed,TRUE,6,TRUE,02/07/2019
+774,Home care was not provided to an elderly person,Health and social care services,Weyland Practice,01/06/2019,Maidenhead,UK,Chat,Stage 2,Decision Pending,FALSE,7,TRUE,02/07/2019
+630,Home care was not provided to an elderly person,Health and social care services,Weyland Practice,01/06/2019,Maidenhead,UK,Social,Stage 2,Decision Pending,FALSE,10,TRUE,02/07/2019
+450,I was billed incorrectly for the treatment I received,Billing,Weyland Practice,01/06/2019,Maidenhead,UK,Social,Stage 2,In Progress,FALSE,10,TRUE,02/07/2019
+846,I was billed incorrectly for the treatment I received,Billing,Weyland Practice,01/06/2019,Maidenhead,UK,Web,Stage 2,Decision Pending,FALSE,2,TRUE,02/07/2019
+306,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Weyland Practice,01/06/2019,Maidenhead,UK,Web,Stage 2,Complaint Upheld,FALSE,2,TRUE,02/07/2019
+702,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Weyland Practice,01/06/2019,Maidenhead,UK,Phone,Stage 2,In Progress,FALSE,3,TRUE,02/07/2019
+522,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Weyland Practice,01/06/2019,Maidenhead,UK,Phone,Stage 2,Decision Pending,FALSE,3,TRUE,02/07/2019
+918,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Weyland Practice,01/07/2019,Maidenhead,UK,Letter,Stage 2,Acknowledged,FALSE,6,TRUE,01/08/2019
+414,Doctors rooms in shambles and not well kept,Facilities,Weyland Practice,01/06/2019,Maidenhead,UK,Chat,Stage 2,Acknowledged,FALSE,7,TRUE,02/07/2019
+810,Doctors rooms in shambles and not well kept,Facilities,Weyland Practice,01/06/2019,Maidenhead,UK,Social,Stage 2,Complaint Upheld,FALSE,10,TRUE,02/07/2019
+111,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wonka Surgery,01/07/2019,London,UK,Web,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/08/2019
+507,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wonka Surgery,01/03/2019,Birmingham,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+903,Healthcare facility was filthy and not well looked after.,Lack of facilities upkeep,Wonka Surgery,01/03/2019,Birmingham,UK,Phone,Stage 3,Closed,TRUE,5,TRUE,01/04/2019
+255,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wonka Surgery,01/03/2019,London,UK,Social,Stage 3,Decision Pending,FALSE,7,TRUE,01/04/2019
+651,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wonka Surgery,01/03/2019,Birmingham,UK,Phone,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+123,Receiving unnecessary surgery/diagnostic testing,Surgery & Diagnostics,Wonka Surgery,01/03/2019,London,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+327,Experiencing a delay in service,Delay in Service,Wonka Surgery,01/03/2019,London,UK,Phone,Stage 3,Complaint Upheld,FALSE,4,TRUE,01/04/2019
+723,Experiencing a delay in service,Delay in Service,Wonka Surgery,01/03/2019,Birmingham,UK,Letter,Stage 3,In Progress,FALSE,5,TRUE,01/04/2019
+39,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wonka Surgery,01/03/2019,London,UK,Chat,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+435,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wonka Surgery,01/03/2019,Birmingham,UK,Social,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+831,Receiving inadequate care or treatment by a Medicare hospital or doctor,Inadequate Care,Wonka Surgery,01/03/2019,Birmingham,UK,Web,Stage 3,Complaint Upheld,FALSE,1,TRUE,01/04/2019
+363,Receiving a misdiagnosis,Misdiagnosis,Wonka Surgery,01/03/2019,London,UK,Letter,Stage 3,Complaint Rejected,TRUE,1,TRUE,01/04/2019
+759,Receiving a misdiagnosis,Misdiagnosis,Wonka Surgery,01/03/2019,Birmingham,UK,Phone,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+147,Home care was not provided to an elderly person,Health and social care services,Wonka Surgery,01/03/2019,London,UK,Phone,Stage 3,Closed,TRUE,4,TRUE,01/04/2019
+543,Home care was not provided to an elderly person,Health and social care services,Wonka Surgery,01/03/2019,Birmingham,UK,Letter,Stage 3,Decision Pending,FALSE,5,TRUE,01/04/2019
+939,Home care was not provided to an elderly person,Health and social care services,Wonka Surgery,01/03/2019,Birmingham,UK,Chat,Stage 3,Acknowledged,FALSE,8,TRUE,01/04/2019
+15,Home care was not provided to an elderly person,Health and social care services,Wonka Surgery,01/03/2019,London,UK,Social,Stage 2,Acknowledged,FALSE,8,TRUE,01/04/2019
+3,Home care was not provided to an elderly person,Health and social care services,Wonka Surgery,01/03/2019,London,UK,Phone,Stage 2,Decision Pending,FALSE,5,TRUE,01/04/2019
+399,Home care was not provided to an elderly person,Health and social care services,Wonka Surgery,01/03/2019,Birmingham,UK,Chat,Stage 3,Closed,TRUE,8,TRUE,01/04/2019
+795,Home care was not provided to an elderly person,Health and social care services,Wonka Surgery,01/03/2019,Birmingham,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+219,I was billed incorrectly for the treatment I received,Billing,Wonka Surgery,01/03/2019,London,UK,Chat,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+615,I was billed incorrectly for the treatment I received,Billing,Wonka Surgery,01/03/2019,Birmingham,UK,Social,Stage 3,Decision Pending,FALSE,8,TRUE,01/04/2019
+87,I was billed incorrectly for the treatment I received,Billing,Wonka Surgery,01/03/2019,London,UK,Phone,Stage 3,Decision Pending,FALSE,4,TRUE,01/04/2019
+75,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wonka Surgery,01/03/2019,London,UK,Social,Stage 3,Complaint Upheld,FALSE,3,TRUE,01/04/2019
+471,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wonka Surgery,01/03/2019,Birmingham,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/04/2019
+867,The communication was not clear and I was not able to understand where I was supposed to be or who to talk to.,Communication,Wonka Surgery,01/03/2019,Birmingham,UK,Phone,Stage 3,Complaint Rejected,TRUE,3,TRUE,01/04/2019
+291,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wonka Surgery,01/03/2019,London,UK,Web,Stage 3,Decision Pending,FALSE,1,TRUE,01/04/2019
+687,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wonka Surgery,01/03/2019,Birmingham,UK,Phone,Stage 3,Decision Pending,FALSE,7,TRUE,01/04/2019
+159,"Standard of service was very poor, the website is badly designed and not intuitive.",Standard of service,Wonka Surgery,01/07/2019,London,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/08/2019
+183,Doctors rooms in shambles and not well kept,Facilities,Wonka Surgery,01/03/2019,London,UK,Letter,Stage 3,Acknowledged,FALSE,5,TRUE,01/04/2019
+579,Doctors rooms in shambles and not well kept,Facilities,Wonka Surgery,01/03/2019,Birmingham,UK,Chat,Stage 3,Complaint Upheld,FALSE,8,TRUE,01/04/2019
+975,Doctors rooms in shambles and not well kept,Facilities,Wonka Surgery,01/03/2019,Birmingham,UK,Social,Stage 3,In Progress,FALSE,8,TRUE,01/04/2019
+51,Doctors rooms in shambles and not well kept,Facilities,Wonka Surgery,01/03/2019,London,UK,Web,Stage 3,In Progress,FALSE,1,TRUE,01/04/2019
